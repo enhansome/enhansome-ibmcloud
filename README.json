@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T14:29:03Z",
+            "last_commit": "2026-08-15T14:10:05Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9354
+            "stars": 9356
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:32:24Z",
+            "last_commit": "2026-08-15T14:24:25Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
-            "stars": 2895
+            "stars": 2897
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2025-08-21T17:43:27Z",
             "owner": "carbon-design-system",
             "repo": "carbon-design-kit",
-            "stars": 1106
+            "stars": 1105
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2020-07-27T15:22:46Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-react",
-            "stars": 1076
+            "stars": 1075
           }
         },
         {
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T17:21:39Z",
+            "last_commit": "2026-08-15T01:47:41Z",
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom",
             "stars": 294
@@ -443,7 +443,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T21:03:22Z",
+            "last_commit": "2026-08-14T22:18:13Z",
             "owner": "IBM",
             "repo": "cp4d-deployment",
             "stars": 49
@@ -457,7 +457,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-12T13:21:54Z",
+            "last_commit": "2026-08-14T22:12:58Z",
             "owner": "IBM",
             "repo": "ibm-spectrum-scale-cloud-install",
             "stars": 32
@@ -525,7 +525,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go Template",
-            "last_commit": "2026-08-14T15:19:16Z",
+            "last_commit": "2026-08-14T16:40:46Z",
             "owner": "IBM",
             "repo": "charts",
             "stars": 311
@@ -553,7 +553,7 @@
           "repo_info": {
             "archived": false,
             "language": "Standard ML",
-            "last_commit": "2026-08-14T15:06:00Z",
+            "last_commit": "2026-08-15T01:03:17Z",
             "owner": "IBM",
             "repo": "cloud-pak",
             "stars": 147
@@ -1737,7 +1737,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-08T11:45:48Z",
+                "last_commit": "2026-08-15T11:26:32Z",
                 "owner": "watson-developer-cloud",
                 "repo": "node-sdk",
                 "stars": 1473
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:32:34.165Z",
+    "last_updated": "2026-08-15T14:58:53.097Z",
     "original_repository": "victorshinya/awesome-ibmcloud",
     "original_repository_sha": "c7bbfeed13dabb5e834bdf1994d0318f485dd7c2",
     "enhanced_repository": "enhansome/enhansome-ibmcloud",
