@@ -27,8 +27,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,356 | 🐛 1,060 | 🌐 JavaScript | 📅 2026-08-15 - A design system built by IBM.
-* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,897 | 🐛 69 | 🌐 TypeScript | 📅 2026-08-15 - Svelte implementation of the Carbon Design System.
+* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,360 | 🐛 1,061 | 🌐 JavaScript | 📅 2026-08-16 - A design system built by IBM.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,898 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-16 - Svelte implementation of the Carbon Design System.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,105 | 🐛 90 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) ⚠️ Archived - React components for the Carbon Design System.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) ⭐ 1,046 | 🐛 271 | 🌐 HTML | 📅 2026-07-31 - 📊 📈 Reusable charts implemented using D3 & typescript.
@@ -59,7 +59,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 *Command Line Tools for MacOS, Windows and Linux.*
 
 * [The Kui Framework for Graphical Terminals](https://github.com/IBM/kui) ⚠️ Archived - A hybrid command-line/UI development experience for cloud-native development.
-* [Cloud Foundry CLI](https://github.com/cloudfoundry/cli) ⭐ 1,928 | 🐛 76 | 🌐 Go | 📅 2026-08-11 - The official command line client for Cloud Foundry.
+* [Cloud Foundry CLI](https://github.com/cloudfoundry/cli) ⭐ 1,928 | 🐛 76 | 🌐 Go | 📅 2026-08-15 - The official command line client for Cloud Foundry.
 * [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) ⭐ 159 | 🐛 29 | 📅 2026-07-22 - This is the command line client for IBM Cloud.
 * [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) - A \**unoffical*- Collection of different Docker Containers to interface with IBM Cloud.
 * [Universal Command Line Interface](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
@@ -130,7 +130,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *SDKs and code patterns with Watson services.*
 
-* [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) ⭐ 1,116 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-07 - 🎤 Sample Node.js Application for the IBM Watson Speech to Text Service.
+* [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) ⭐ 1,115 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-07 - 🎤 Sample Node.js Application for the IBM Watson Speech to Text Service.
 * [max-image-resolution-enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) ⭐ 1,040 | 🐛 18 | 🌐 Python | 📅 2025-09-17 - Upscale an image by a factor of 4, while generating photo-realistic details.
 * [personality-insights-nodejs](https://github.com/watson-developer-cloud/personality-insights-nodejs) ⚠️ Archived - 📊 Sample Nodejs Application for the IBM Watson Personality Insights Service.
 * [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) ⚠️ Archived - Classify images offline using Watson Visual Recognition and Core ML.
@@ -343,4 +343,4 @@ Feel free to contact me for any discussion, question, or comment. You can find o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

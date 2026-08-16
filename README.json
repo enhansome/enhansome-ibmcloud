@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T14:10:05Z",
+            "last_commit": "2026-08-16T14:10:43Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9356
+            "stars": 9360
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T14:24:25Z",
+            "last_commit": "2026-08-16T14:33:13Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
-            "stars": 2897
+            "stars": 2898
           }
         },
         {
@@ -395,7 +395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T21:19:11Z",
+            "last_commit": "2026-08-15T23:50:27Z",
             "owner": "cloudfoundry",
             "repo": "cli",
             "stars": 1928
@@ -1071,7 +1071,7 @@
             "last_commit": "2023-01-07T03:55:51Z",
             "owner": "watson-developer-cloud",
             "repo": "speech-to-text-nodejs",
-            "stars": 1116
+            "stars": 1115
           }
         },
         {
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:58:53.097Z",
+    "last_updated": "2026-08-16T14:58:57.645Z",
     "original_repository": "victorshinya/awesome-ibmcloud",
     "original_repository_sha": "c7bbfeed13dabb5e834bdf1994d0318f485dd7c2",
     "enhanced_repository": "enhansome/enhansome-ibmcloud",
