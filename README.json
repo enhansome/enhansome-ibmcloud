@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T14:10:43Z",
+            "last_commit": "2026-08-17T13:10:03Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9360
+            "stars": 9362
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T14:33:13Z",
+            "last_commit": "2026-08-17T13:33:52Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
             "stars": 2898
@@ -42,7 +42,7 @@
             "last_commit": "2025-08-21T17:43:27Z",
             "owner": "carbon-design-system",
             "repo": "carbon-design-kit",
-            "stars": 1105
+            "stars": 1104
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T02:45:18Z",
+            "last_commit": "2026-08-17T06:09:36Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-angular",
             "stars": 565
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T01:47:41Z",
+            "last_commit": "2026-08-17T13:24:10Z",
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom",
             "stars": 294
@@ -207,7 +207,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-08-13T08:42:50Z",
+            "last_commit": "2026-08-16T23:08:52Z",
             "owner": "carbon-design-system",
             "repo": "design-language-website",
             "stars": 100
@@ -395,7 +395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T23:50:27Z",
+            "last_commit": "2026-08-17T08:04:20Z",
             "owner": "cloudfoundry",
             "repo": "cli",
             "stars": 1928
@@ -432,7 +432,7 @@
             "last_commit": "2026-08-05T06:05:14Z",
             "owner": "IBM-Cloud",
             "repo": "terraform-provider-ibm",
-            "stars": 361
+            "stars": 360
           }
         },
         {
@@ -838,7 +838,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-14T09:58:24Z",
+                "last_commit": "2026-08-17T09:51:07Z",
                 "owner": "cloudfoundry",
                 "repo": "java-buildpack",
                 "stars": 453
@@ -866,7 +866,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-13T12:49:50Z",
+                "last_commit": "2026-08-17T07:16:30Z",
                 "owner": "cloudfoundry",
                 "repo": "nodejs-buildpack",
                 "stars": 175
@@ -894,7 +894,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-14T09:36:38Z",
+                "last_commit": "2026-08-17T07:17:18Z",
                 "owner": "cloudfoundry",
                 "repo": "python-buildpack",
                 "stars": 122
@@ -1071,7 +1071,7 @@
             "last_commit": "2023-01-07T03:55:51Z",
             "owner": "watson-developer-cloud",
             "repo": "speech-to-text-nodejs",
-            "stars": 1115
+            "stars": 1114
           }
         },
         {
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:58:57.645Z",
+    "last_updated": "2026-08-17T15:01:57.678Z",
     "original_repository": "victorshinya/awesome-ibmcloud",
     "original_repository_sha": "c7bbfeed13dabb5e834bdf1994d0318f485dd7c2",
     "enhanced_repository": "enhansome/enhansome-ibmcloud",
