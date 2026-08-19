@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84835535,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T14:17:55Z",
+            "last_commit": "2026-08-19T10:05:15Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9368
+            "stars": 9371
           }
         },
         {
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228229631,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T00:50:39Z",
+            "last_commit": "2026-08-19T03:27:55Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
             "stars": 2897
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86360855,
             "language": null,
             "last_commit": "2025-08-21T17:43:27Z",
             "owner": "carbon-design-system",
             "repo": "carbon-design-kit",
-            "stars": 1105
+            "stars": 1106
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 92527058,
             "language": "JavaScript",
             "last_commit": "2020-07-27T15:22:46Z",
             "owner": "carbon-design-system",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143059476,
             "language": "HTML",
             "last_commit": "2026-07-31T06:23:53Z",
             "owner": "carbon-design-system",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154535475,
             "language": "JavaScript",
             "last_commit": "2026-08-12T07:10:50Z",
             "owner": "carbon-design-system",
@@ -94,8 +100,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143059442,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T06:09:36Z",
+            "last_commit": "2026-08-18T18:02:15Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-angular",
             "stars": 564
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 186906621,
             "language": "TypeScript",
             "last_commit": "2023-03-08T16:19:08Z",
             "owner": "carbon-design-system",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227893823,
             "language": "TypeScript",
             "last_commit": "2026-07-31T23:51:18Z",
             "owner": "carbon-design-system",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181062037,
             "language": "MDX",
             "last_commit": "2026-08-13T16:50:02Z",
             "owner": "carbon-design-system",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199501316,
             "language": "MDX",
             "last_commit": "2026-08-13T19:32:06Z",
             "owner": "carbon-design-system",
@@ -164,8 +175,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193129061,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T13:46:20Z",
+            "last_commit": "2026-08-19T10:06:23Z",
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom",
             "stars": 293
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 182815745,
             "language": "JavaScript",
             "last_commit": "2023-11-03T16:24:27Z",
             "owner": "carbon-design-system",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161507858,
             "language": "JavaScript",
             "last_commit": "2026-08-11T10:24:28Z",
             "owner": "carbon-design-system",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181498056,
             "language": "CSS",
             "last_commit": "2026-08-16T23:08:52Z",
             "owner": "carbon-design-system",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85987501,
             "language": "HTML",
             "last_commit": "2024-05-23T14:22:06Z",
             "owner": "carbon-design-system",
@@ -234,11 +250,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158452318,
             "language": "TypeScript",
             "last_commit": "2024-05-23T14:24:53Z",
             "owner": "carbon-design-system",
             "repo": "carbon-angular-starter",
-            "stars": 77
+            "stars": 76
           }
         },
         {
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200102249,
             "language": "JavaScript",
             "last_commit": "2025-11-17T16:08:05Z",
             "owner": "carbon-design-system",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202376156,
             "language": "MDX",
             "last_commit": "2024-09-23T16:14:42Z",
             "owner": "carbon-design-system",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 267152773,
             "language": "JavaScript",
             "last_commit": "2026-03-30T18:14:56Z",
             "owner": "carbon-design-system",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 116168424,
             "language": "JavaScript",
             "last_commit": "2024-05-23T14:23:23Z",
             "owner": "carbon-design-system",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183132546,
             "language": "MDX",
             "last_commit": "2024-10-22T17:33:07Z",
             "owner": "carbon-design-system",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220304408,
             "language": "JavaScript",
             "last_commit": "2023-07-12T02:33:23Z",
             "owner": "carbon-design-system",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91586623,
             "language": "CSS",
             "last_commit": "2024-05-23T14:22:30Z",
             "owner": "carbon-design-system",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241686081,
             "language": "TypeScript",
             "last_commit": "2025-09-17T21:14:57Z",
             "owner": "IBM",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 284116085,
             "language": "JavaScript",
             "last_commit": "2022-07-11T17:42:47Z",
             "owner": "carbon-design-system",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 159242360,
             "language": "TypeScript",
             "last_commit": "2025-07-12T22:06:01Z",
             "owner": "kubernetes-retired",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12223350,
             "language": "Go",
             "last_commit": "2026-08-17T08:04:20Z",
             "owner": "cloudfoundry",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71359238,
             "language": null,
             "last_commit": "2026-07-22T18:19:08Z",
             "owner": "IBM-Cloud",
@@ -428,8 +457,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94801963,
             "language": "Go",
-            "last_commit": "2026-08-18T05:43:02Z",
+            "last_commit": "2026-08-19T08:45:32Z",
             "owner": "IBM-Cloud",
             "repo": "terraform-provider-ibm",
             "stars": 360
@@ -442,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250500814,
             "language": null,
             "last_commit": "2026-08-14T22:18:13Z",
             "owner": "IBM",
@@ -456,8 +487,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238988646,
             "language": "HCL",
-            "last_commit": "2026-08-18T06:51:40Z",
+            "last_commit": "2026-08-19T09:52:12Z",
             "owner": "IBM",
             "repo": "ibm-spectrum-scale-cloud-install",
             "stars": 32
@@ -470,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 239935420,
             "language": "Shell",
             "last_commit": "2021-10-26T16:29:12Z",
             "owner": "IBM",
@@ -484,18 +517,13 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 118156301,
             "language": "HCL",
             "last_commit": "2020-10-08T19:29:09Z",
             "owner": "IBM-Cloud",
             "repo": "LAMP-terraform-ibm",
             "stars": 5
           }
-        },
-        {
-          "node_type": "item",
-          "title": "cloudland",
-          "description": "Cloudland, a light weight infrastructure as a service project, plus OpenShift 4 platform as a service deployment engine, is a system framework to manage VM instances, software defined networks (SDN), volumes.",
-          "children": []
         }
       ],
       "title": "Infrastructure"
@@ -510,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51308720,
             "language": "Swift",
             "last_commit": "2026-05-19T07:37:04Z",
             "owner": "Kitura",
@@ -524,8 +553,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94188121,
             "language": "Go Template",
-            "last_commit": "2026-08-18T13:09:57Z",
+            "last_commit": "2026-08-19T02:36:57Z",
             "owner": "IBM",
             "repo": "charts",
             "stars": 311
@@ -538,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51377089,
             "language": "Vim script",
             "last_commit": "2019-07-16T21:15:31Z",
             "owner": "Kitura",
@@ -552,8 +583,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153376495,
             "language": "Standard ML",
-            "last_commit": "2026-08-18T14:39:58Z",
+            "last_commit": "2026-08-19T02:32:08Z",
             "owner": "IBM",
             "repo": "cloud-pak",
             "stars": 147
@@ -566,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57235612,
             "language": null,
             "last_commit": "2020-05-05T16:21:54Z",
             "owner": "IBM-Cloud",
@@ -580,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97132462,
             "language": "Swift",
             "last_commit": "2024-11-09T17:11:00Z",
             "owner": "Kitura",
@@ -594,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51111554,
             "language": "Swift",
             "last_commit": "2021-09-13T06:03:50Z",
             "owner": "Kitura",
@@ -608,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53511493,
             "language": "Swift",
             "last_commit": "2020-09-18T17:25:05Z",
             "owner": "Kitura",
@@ -622,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 72868926,
             "language": "JavaScript",
             "last_commit": "2020-02-27T20:50:25Z",
             "owner": "IBM-Swift",
@@ -636,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49125605,
             "language": "JavaScript",
             "last_commit": "2018-09-10T14:55:24Z",
             "owner": "IBM-Cloud",
@@ -650,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51158521,
             "language": "Swift",
             "last_commit": "2021-08-19T09:47:22Z",
             "owner": "Kitura",
@@ -664,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159689252,
             "language": "Go",
             "last_commit": "2026-08-06T15:59:32Z",
             "owner": "IBM",
@@ -678,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51963308,
             "language": "Swift",
             "last_commit": "2020-11-26T14:05:53Z",
             "owner": "Kitura",
@@ -692,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94864377,
             "language": null,
             "last_commit": "2020-07-20T13:19:42Z",
             "owner": "IBM-Cloud",
@@ -706,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89257570,
             "language": "Go",
             "last_commit": "2026-07-10T20:24:48Z",
             "owner": "IBM-Cloud",
@@ -720,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133330351,
             "language": "Swift",
             "last_commit": "2022-10-07T05:19:11Z",
             "owner": "Kitura",
@@ -734,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56619161,
             "language": "CSS",
             "last_commit": "2019-12-02T20:52:57Z",
             "owner": "IBM-Cloud",
@@ -748,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70893674,
             "language": "Swift",
             "last_commit": "2019-10-01T17:10:58Z",
             "owner": "IBM-Cloud",
@@ -762,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54966710,
             "language": "Swift",
             "last_commit": "2022-10-05T17:26:40Z",
             "owner": "Kitura",
@@ -776,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 87825605,
             "language": "JavaScript",
             "last_commit": "2021-09-23T00:58:51Z",
             "owner": "IBM-Cloud",
@@ -790,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55336398,
             "language": "Swift",
             "last_commit": "2020-11-27T15:25:12Z",
             "owner": "Kitura",
@@ -804,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160711987,
             "language": "JavaScript",
             "last_commit": "2022-12-09T08:26:30Z",
             "owner": "victorshinya",
@@ -818,6 +868,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193632847,
             "language": "HTML",
             "last_commit": "2021-11-12T14:52:21Z",
             "owner": "victorshinya",
@@ -837,8 +888,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 9899931,
                 "language": "Go",
-                "last_commit": "2026-08-18T12:27:46Z",
+                "last_commit": "2026-08-19T10:28:37Z",
                 "owner": "cloudfoundry",
                 "repo": "java-buildpack",
                 "stars": 453
@@ -851,6 +903,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 22798547,
                 "language": "Go",
                 "last_commit": "2026-07-22T13:20:54Z",
                 "owner": "cloudfoundry",
@@ -865,6 +918,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 8733172,
                 "language": "Go",
                 "last_commit": "2026-08-17T07:16:30Z",
                 "owner": "cloudfoundry",
@@ -879,6 +933,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15767202,
                 "language": "Go",
                 "last_commit": "2026-07-30T01:30:45Z",
                 "owner": "cloudfoundry",
@@ -893,8 +948,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 19470496,
                 "language": "Go",
-                "last_commit": "2026-08-18T13:02:30Z",
+                "last_commit": "2026-08-19T11:40:59Z",
                 "owner": "cloudfoundry",
                 "repo": "python-buildpack",
                 "stars": 122
@@ -907,8 +963,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 35617335,
                 "language": "Go",
-                "last_commit": "2026-08-13T11:23:10Z",
+                "last_commit": "2026-08-19T12:22:55Z",
                 "owner": "cloudfoundry",
                 "repo": "dotnet-core-buildpack",
                 "stars": 97
@@ -921,6 +978,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 18520957,
                 "language": "Go",
                 "last_commit": "2026-08-13T17:57:15Z",
                 "owner": "cloudfoundry",
@@ -935,6 +993,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 12596989,
                 "language": "Ruby",
                 "last_commit": "2025-04-02T14:17:29Z",
                 "owner": "cloudfoundry",
@@ -949,6 +1008,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 7805144,
                 "language": "Go",
                 "last_commit": "2026-08-13T10:03:45Z",
                 "owner": "cloudfoundry",
@@ -963,6 +1023,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 116298011,
                 "language": "Go",
                 "last_commit": "2026-07-15T17:43:16Z",
                 "owner": "cloudfoundry",
@@ -977,6 +1038,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 35125450,
                 "language": "Shell",
                 "last_commit": "2026-06-15T14:06:45Z",
                 "owner": "cloudfoundry",
@@ -991,6 +1053,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 120503464,
                 "language": "Go",
                 "last_commit": "2026-07-06T14:01:53Z",
                 "owner": "cloudfoundry",
@@ -999,12 +1062,6 @@
               }
             }
           ]
-        },
-        {
-          "node_type": "item",
-          "title": "go-website",
-          "description": "Deploy your website using a Golang server.",
-          "children": []
         }
       ],
       "title": "Platform"
@@ -1019,6 +1076,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 54635556,
             "language": "JavaScript",
             "last_commit": "2020-03-25T22:28:11Z",
             "owner": "IBM-Cloud",
@@ -1033,6 +1091,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52446896,
             "language": "Swift",
             "last_commit": "2018-07-25T07:37:10Z",
             "owner": "IBM-Cloud",
@@ -1047,6 +1106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164014779,
             "language": "JavaScript",
             "last_commit": "2020-04-05T03:51:33Z",
             "owner": "victorshinya",
@@ -1067,6 +1127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30329495,
             "language": "JavaScript",
             "last_commit": "2023-01-07T03:55:51Z",
             "owner": "watson-developer-cloud",
@@ -1081,6 +1142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176559063,
             "language": "Python",
             "last_commit": "2025-09-17T20:30:28Z",
             "owner": "IBM",
@@ -1095,6 +1157,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30994108,
             "language": "JavaScript",
             "last_commit": "2022-06-23T18:55:29Z",
             "owner": "watson-developer-cloud",
@@ -1109,6 +1172,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 124135124,
             "language": "Swift",
             "last_commit": "2019-09-10T16:42:49Z",
             "owner": "watson-developer-cloud",
@@ -1123,6 +1187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59693329,
             "language": "JavaScript",
             "last_commit": "2023-01-04T21:37:44Z",
             "owner": "watson-developer-cloud",
@@ -1137,6 +1202,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 39128538,
             "language": "CSS",
             "last_commit": "2022-06-23T18:51:53Z",
             "owner": "watson-developer-cloud",
@@ -1151,6 +1217,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30329872,
             "language": "JavaScript",
             "last_commit": "2019-05-21T16:56:59Z",
             "owner": "germanattanasio",
@@ -1165,6 +1232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124604154,
             "language": "Python",
             "last_commit": "2025-09-17T19:57:46Z",
             "owner": "IBM",
@@ -1179,6 +1247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49778183,
             "language": "JavaScript",
             "last_commit": "2026-02-10T09:36:16Z",
             "owner": "watson-developer-cloud",
@@ -1193,6 +1262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70256607,
             "language": "TypeScript",
             "last_commit": "2023-01-07T04:17:10Z",
             "owner": "watson-developer-cloud",
@@ -1207,6 +1277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42580903,
             "language": null,
             "last_commit": "2018-05-30T16:47:16Z",
             "owner": "watson-developer-cloud",
@@ -1221,11 +1292,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79082715,
             "language": "Java",
             "last_commit": "2021-11-17T12:45:52Z",
             "owner": "IBM-Cloud",
             "repo": "chatbot-watson-android",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -1235,6 +1307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140601373,
             "language": "Python",
             "last_commit": "2025-09-17T20:06:34Z",
             "owner": "IBM",
@@ -1249,6 +1322,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35494176,
             "language": "JavaScript",
             "last_commit": "2021-09-21T18:15:37Z",
             "owner": "watson-developer-cloud",
@@ -1263,6 +1337,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 27882150,
             "language": "JavaScript",
             "last_commit": "2021-05-26T17:58:13Z",
             "owner": "germanattanasio",
@@ -1277,6 +1352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83071218,
             "language": "JavaScript",
             "last_commit": "2023-01-04T21:36:51Z",
             "owner": "watson-developer-cloud",
@@ -1291,6 +1367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124603521,
             "language": "Python",
             "last_commit": "2025-09-17T19:57:22Z",
             "owner": "IBM",
@@ -1305,6 +1382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55415107,
             "language": "HTML",
             "last_commit": "2022-03-28T08:38:35Z",
             "owner": "watson-developer-cloud",
@@ -1319,6 +1397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178269980,
             "language": "Python",
             "last_commit": "2025-09-17T20:32:07Z",
             "owner": "IBM",
@@ -1333,6 +1412,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80665747,
             "language": "JavaScript",
             "last_commit": "2020-11-24T15:54:00Z",
             "owner": "watson-developer-cloud",
@@ -1347,6 +1427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148203076,
             "language": "Python",
             "last_commit": "2025-09-17T20:11:29Z",
             "owner": "IBM",
@@ -1361,6 +1442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160571201,
             "language": "C++",
             "last_commit": "2025-09-17T20:18:18Z",
             "owner": "IBM",
@@ -1375,6 +1457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140600933,
             "language": "Python",
             "last_commit": "2025-09-17T20:05:56Z",
             "owner": "IBM",
@@ -1389,6 +1472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176559065,
             "language": "Python",
             "last_commit": "2025-09-17T20:30:41Z",
             "owner": "IBM",
@@ -1403,6 +1487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188468796,
             "language": "Python",
             "last_commit": "2025-09-17T20:37:29Z",
             "owner": "IBM",
@@ -1417,6 +1502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218193312,
             "language": "Python",
             "last_commit": "2025-09-17T20:57:02Z",
             "owner": "IBM",
@@ -1431,6 +1517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124602848,
             "language": "Python",
             "last_commit": "2025-09-17T19:56:18Z",
             "owner": "IBM",
@@ -1445,6 +1532,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 93529900,
             "language": "Swift",
             "last_commit": "2020-11-16T20:35:33Z",
             "owner": "watson-developer-cloud",
@@ -1459,6 +1547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124603210,
             "language": "Python",
             "last_commit": "2025-09-17T19:56:56Z",
             "owner": "IBM",
@@ -1473,6 +1562,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 70281872,
             "language": "JavaScript",
             "last_commit": "2019-07-15T13:29:24Z",
             "owner": "watson-developer-cloud",
@@ -1487,6 +1577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189083526,
             "language": "Python",
             "last_commit": "2025-09-17T20:37:42Z",
             "owner": "IBM",
@@ -1501,6 +1592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207696489,
             "language": "Python",
             "last_commit": "2025-09-17T20:53:00Z",
             "owner": "IBM",
@@ -1515,6 +1607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140601269,
             "language": "Python",
             "last_commit": "2025-09-17T20:06:21Z",
             "owner": "IBM",
@@ -1529,6 +1622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124603311,
             "language": "Python",
             "last_commit": "2025-09-17T19:57:09Z",
             "owner": "IBM",
@@ -1543,6 +1637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195900178,
             "language": "Python",
             "last_commit": "2025-09-17T20:42:12Z",
             "owner": "IBM",
@@ -1557,6 +1652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140601508,
             "language": "Python",
             "last_commit": "2025-09-17T20:06:48Z",
             "owner": "IBM",
@@ -1571,6 +1667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124603090,
             "language": "Python",
             "last_commit": "2025-09-17T19:56:44Z",
             "owner": "IBM",
@@ -1585,6 +1682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140601107,
             "language": "Python",
             "last_commit": "2025-09-17T20:06:09Z",
             "owner": "IBM",
@@ -1599,6 +1697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148203203,
             "language": "Python",
             "last_commit": "2025-09-17T20:11:42Z",
             "owner": "IBM",
@@ -1613,6 +1712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124603621,
             "language": "Python",
             "last_commit": "2025-09-17T19:57:34Z",
             "owner": "IBM",
@@ -1627,6 +1727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148203483,
             "language": "Python",
             "last_commit": "2025-09-17T20:11:56Z",
             "owner": "IBM",
@@ -1641,6 +1742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125113533,
             "language": "Python",
             "last_commit": "2025-09-17T19:58:18Z",
             "owner": "IBM",
@@ -1655,6 +1757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124602999,
             "language": "Python",
             "last_commit": "2025-09-17T19:56:31Z",
             "owner": "IBM",
@@ -1669,6 +1772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148833156,
             "language": "Dockerfile",
             "last_commit": "2026-07-16T07:58:10Z",
             "owner": "IBM",
@@ -1683,6 +1787,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 140601608,
             "language": "Python",
             "last_commit": "2020-04-07T14:17:15Z",
             "owner": "IBM",
@@ -1697,6 +1802,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 176559069,
             "language": "Jupyter Notebook",
             "last_commit": "2022-11-22T07:53:45Z",
             "owner": "IBM",
@@ -1711,18 +1817,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160128061,
             "language": "Swift",
             "last_commit": "2019-09-02T03:03:17Z",
             "owner": "victorshinya",
             "repo": "with-watson",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "personality-insights-python",
-          "description": "Sample Python Application for the IBM Watson Personality Insights Service.",
-          "children": []
         },
         {
           "node_type": "group",
@@ -1736,6 +1837,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 27840307,
                 "language": "TypeScript",
                 "last_commit": "2026-08-15T11:26:32Z",
                 "owner": "watson-developer-cloud",
@@ -1750,6 +1852,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 42750248,
                 "language": "Python",
                 "last_commit": "2026-01-26T19:34:45Z",
                 "owner": "watson-developer-cloud",
@@ -1764,6 +1867,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 42934262,
                 "language": "Swift",
                 "last_commit": "2025-04-22T19:18:35Z",
                 "owner": "watson-developer-cloud",
@@ -1778,6 +1882,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 34824538,
                 "language": "Java",
                 "last_commit": "2026-01-14T21:14:44Z",
                 "owner": "watson-developer-cloud",
@@ -1792,6 +1897,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 48125477,
                 "language": "C#",
                 "last_commit": "2025-04-22T19:21:21Z",
                 "owner": "watson-developer-cloud",
@@ -1806,6 +1912,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 55543847,
                 "language": "Java",
                 "last_commit": "2021-01-04T18:34:40Z",
                 "owner": "watson-developer-cloud",
@@ -1820,6 +1927,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 76460704,
                 "language": "C#",
                 "last_commit": "2026-05-19T17:25:40Z",
                 "owner": "watson-developer-cloud",
@@ -1834,6 +1942,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 152775148,
                 "language": "Go",
                 "last_commit": "2025-04-22T19:19:26Z",
                 "owner": "watson-developer-cloud",
@@ -1848,6 +1957,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 140028155,
                 "language": "Ruby",
                 "last_commit": "2025-04-22T19:20:19Z",
                 "owner": "watson-developer-cloud",
@@ -1862,6 +1972,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 109404898,
                 "language": "Apex",
                 "last_commit": "2020-07-20T16:15:45Z",
                 "owner": "watson-developer-cloud",
@@ -1876,6 +1987,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 118832056,
                 "language": "JavaScript",
                 "last_commit": "2019-02-14T15:34:45Z",
                 "owner": "watson-developer-cloud",
@@ -1884,30 +1996,15 @@
               }
             }
           ]
-        },
-        {
-          "node_type": "item",
-          "title": "with-watson-custom-model",
-          "description": "iOS App running Visual Recognition custom model.",
-          "children": []
         }
       ],
       "title": "Data & AI"
-    },
-    {
-      "description": "If you want to contribute, feel free to submit your Pull Request or create a new Issue. But first, take a moment to read the contribution guidelines. Thanks to all contributors! #YouROCK!\nIf you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Feel free to contact me for any discussion, question, or comment. You can find on my GitHub page or you can talk to me on Twitter.",
-      "items": [],
-      "title": "Contact"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:06:53.672Z",
+    "last_updated": "2026-08-19T12:33:43.017Z",
     "original_repository": "victorshinya/awesome-ibmcloud",
+    "original_repository_id": 163752109,
     "original_repository_sha": "c7bbfeed13dabb5e834bdf1994d0318f485dd7c2",
     "enhanced_repository": "enhansome/enhansome-ibmcloud",
     "enhanced_repository_description": null,
