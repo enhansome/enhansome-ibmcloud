@@ -11,11 +11,11 @@
           "repo_info": {
             "archived": false,
             "id": 84835535,
-            "language": "JavaScript",
-            "last_commit": "2026-08-20T14:19:38Z",
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T15:08:43Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9373
+            "stars": 9374
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 228229631,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T12:38:41Z",
+            "last_commit": "2026-08-21T14:32:11Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
             "stars": 2897
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 193129061,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T09:15:58Z",
+            "last_commit": "2026-08-20T21:19:58Z",
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom",
             "stars": 293
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-17T08:04:20Z",
             "owner": "cloudfoundry",
             "repo": "cli",
-            "stars": 1928
+            "stars": 1929
           }
         },
         {
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 94801963,
             "language": "Go",
-            "last_commit": "2026-08-20T13:22:10Z",
+            "last_commit": "2026-08-21T05:27:44Z",
             "owner": "IBM-Cloud",
             "repo": "terraform-provider-ibm",
             "stars": 360
@@ -474,7 +474,7 @@
             "archived": false,
             "id": 250500814,
             "language": null,
-            "last_commit": "2026-08-20T13:55:32Z",
+            "last_commit": "2026-08-21T11:45:37Z",
             "owner": "IBM",
             "repo": "cp4d-deployment",
             "stars": 49
@@ -489,7 +489,7 @@
             "archived": false,
             "id": 238988646,
             "language": "HCL",
-            "last_commit": "2026-08-20T10:17:05Z",
+            "last_commit": "2026-08-21T14:56:47Z",
             "owner": "IBM",
             "repo": "ibm-spectrum-scale-cloud-install",
             "stars": 32
@@ -555,7 +555,7 @@
             "archived": false,
             "id": 94188121,
             "language": "Go Template",
-            "last_commit": "2026-08-19T02:36:57Z",
+            "last_commit": "2026-08-21T10:37:41Z",
             "owner": "IBM",
             "repo": "charts",
             "stars": 311
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 153376495,
             "language": "Standard ML",
-            "last_commit": "2026-08-20T14:10:51Z",
+            "last_commit": "2026-08-21T14:45:27Z",
             "owner": "IBM",
             "repo": "cloud-pak",
             "stars": 147
@@ -890,7 +890,7 @@
                 "archived": false,
                 "id": 9899931,
                 "language": "Go",
-                "last_commit": "2026-08-19T10:28:37Z",
+                "last_commit": "2026-08-21T10:29:37Z",
                 "owner": "cloudfoundry",
                 "repo": "java-buildpack",
                 "stars": 453
@@ -950,7 +950,7 @@
                 "archived": false,
                 "id": 19470496,
                 "language": "Go",
-                "last_commit": "2026-08-19T11:40:59Z",
+                "last_commit": "2026-08-20T20:41:15Z",
                 "owner": "cloudfoundry",
                 "repo": "python-buildpack",
                 "stars": 122
@@ -965,7 +965,7 @@
                 "archived": false,
                 "id": 35617335,
                 "language": "Go",
-                "last_commit": "2026-08-20T13:41:50Z",
+                "last_commit": "2026-08-21T12:10:44Z",
                 "owner": "cloudfoundry",
                 "repo": "dotnet-core-buildpack",
                 "stars": 97
@@ -1132,7 +1132,7 @@
             "last_commit": "2023-01-07T03:55:51Z",
             "owner": "watson-developer-cloud",
             "repo": "speech-to-text-nodejs",
-            "stars": 1114
+            "stars": 1113
           }
         },
         {
@@ -2002,7 +2002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:16:30.114Z",
+    "last_updated": "2026-08-21T15:14:14.781Z",
     "original_repository": "victorshinya/awesome-ibmcloud",
     "original_repository_id": 163752109,
     "original_repository_sha": "c7bbfeed13dabb5e834bdf1994d0318f485dd7c2",
