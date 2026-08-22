@@ -12,10 +12,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T15:08:43Z",
+            "last_commit": "2026-08-22T14:09:44Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9374
+            "stars": 9375
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 228229631,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T14:32:11Z",
+            "last_commit": "2026-08-22T04:12:11Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
             "stars": 2897
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 199501316,
             "language": "MDX",
-            "last_commit": "2026-08-13T19:32:06Z",
+            "last_commit": "2026-08-21T16:29:29Z",
             "owner": "carbon-design-system",
             "repo": "carbon-website",
-            "stars": 328
+            "stars": 330
           }
         },
         {
@@ -555,7 +555,7 @@
             "archived": false,
             "id": 94188121,
             "language": "Go Template",
-            "last_commit": "2026-08-21T10:37:41Z",
+            "last_commit": "2026-08-21T16:07:46Z",
             "owner": "IBM",
             "repo": "charts",
             "stars": 311
@@ -585,10 +585,10 @@
             "archived": false,
             "id": 153376495,
             "language": "Standard ML",
-            "last_commit": "2026-08-21T14:45:27Z",
+            "last_commit": "2026-08-21T23:43:02Z",
             "owner": "IBM",
             "repo": "cloud-pak",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -890,7 +890,7 @@
                 "archived": false,
                 "id": 9899931,
                 "language": "Go",
-                "last_commit": "2026-08-21T10:29:37Z",
+                "last_commit": "2026-08-21T15:18:43Z",
                 "owner": "cloudfoundry",
                 "repo": "java-buildpack",
                 "stars": 453
@@ -2002,7 +2002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:14:14.781Z",
+    "last_updated": "2026-08-22T14:58:17.436Z",
     "original_repository": "victorshinya/awesome-ibmcloud",
     "original_repository_id": 163752109,
     "original_repository_sha": "c7bbfeed13dabb5e834bdf1994d0318f485dd7c2",

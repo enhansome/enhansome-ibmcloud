@@ -27,8 +27,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,374 | 🐛 1,056 | 🌐 TypeScript | 📅 2026-08-21 - A design system built by IBM.
-* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,897 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-21 - Svelte implementation of the Carbon Design System.
+* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,375 | 🐛 1,050 | 🌐 TypeScript | 📅 2026-08-22 - A design system built by IBM.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,897 | 🐛 82 | 🌐 TypeScript | 📅 2026-08-22 - Svelte implementation of the Carbon Design System.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,107 | 🐛 86 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) ⚠️ Archived - React components for the Carbon Design System.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) ⭐ 1,045 | 🐛 274 | 🌐 HTML | 📅 2026-07-31 - 📊 📈 Reusable charts implemented using D3 & typescript.
@@ -37,8 +37,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [carbon-web-components](https://github.com/carbon-design-system/carbon-web-components) ⚠️ Archived - Carbon Design System variant on top of Web Components.
 * [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) ⭐ 458 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - Svelte components for icons in digital and software products using the Carbon Design System.
 * [gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) ⭐ 357 | 🐛 71 | 🌐 MDX | 📅 2026-08-13 - A Carbon inspired Gatsby theme.
-* [carbon-website](https://github.com/carbon-design-system/carbon-website) ⭐ 328 | 🐛 129 | 🌐 MDX | 📅 2026-08-13 - The website for the Carbon Design System.
-* [ibm-dotcom-library](https://github.com/carbon-design-system/ibm-dotcom-library) ⭐ 293 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-20 - IBM.com library based on the Carbon Design System for IBM.
+* [carbon-website](https://github.com/carbon-design-system/carbon-website) ⭐ 330 | 🐛 128 | 🌐 MDX | 📅 2026-08-21 - The website for the Carbon Design System.
+* [ibm-dotcom-library](https://github.com/carbon-design-system/ibm-dotcom-library) ⭐ 293 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-20 - IBM.com library based on the Carbon Design System for IBM.
 * [carbon-tutorial](https://github.com/carbon-design-system/carbon-tutorial) ⚠️ Archived - An app for the Carbon Design System tutorial.
 * [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react) ⭐ 103 | 🐛 247 | 🌐 JavaScript | 📅 2026-08-11 - This library contains React components shared between all IBM IoT products to unify our look and feel. These widgets are usually based on the carbon-components-react widgets.
 * [carbon-language-website](https://github.com/carbon-design-system/design-language-website) ⭐ 100 | 🐛 2 | 🌐 CSS | 📅 2026-08-19 - IBM Design Language website.
@@ -83,7 +83,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [kitura](https://github.com/IBM-Swift/Kitura) ⭐ 7,580 | 🐛 70 | 🌐 Swift | 📅 2026-05-19 - A Swift web framework and HTTP server.
 * [charts](https://github.com/IBM/charts) ⭐ 311 | 🐛 4 | 🌐 Go Template | 📅 2026-08-21 - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 * [swift-ubuntu-docker](https://github.com/IBM-Swift/swift-ubuntu-docker) ⭐ 151 | 🐛 0 | 🌐 Vim script | 📅 2019-07-16 - Docker image packaged with the Swift binaries.
-* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 147 | 🐛 7 | 🌐 Standard ML | 📅 2026-08-21 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
+* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 148 | 🐛 7 | 🌐 Standard ML | 📅 2026-08-21 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
 * [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard) ⚠️ Archived - The Logistics Wizard is an end-to-end, smart supply chain management solution.
 * [swifty-request](https://github.com/IBM-Swift/SwiftyRequest) ⭐ 110 | 🐛 13 | 🌐 Swift | 📅 2024-11-09 - SwiftyRequest is an HTTP networking library built for Swift.
 * [kitura-net](https://github.com/IBM-Swift/Kitura-net) ⭐ 104 | 🐛 11 | 🌐 Swift | 📅 2021-09-13 - Kitura networking.
@@ -104,7 +104,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [webiste-base](https://github.com/victorshinya/website-base) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2022-12-09 - Deploy your website using a Node.js server.
 * [go-cloud](https://github.com/victorshinya/go-cloud) ⭐ 3 | 🐛 1 | 🌐 HTML | 📅 2021-11-12 - A Golang boilerplate code to benchmark cloud platforms to host a Go applications.
 * [cloud-foundry](https://github.com/cloudfoundry/) - IBM Cloud Platform as a Service.
-  * [java-buildpack](https://github.com/cloudfoundry/java-buildpack) ⭐ 453 | 🐛 10 | 🌐 Go | 📅 2026-08-21 - Cloud Foundry buildpack for running Java applications.
+  * [java-buildpack](https://github.com/cloudfoundry/java-buildpack) ⭐ 453 | 🐛 8 | 🌐 Go | 📅 2026-08-21 - Cloud Foundry buildpack for running Java applications.
   * [staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack) ⭐ 203 | 🐛 5 | 🌐 Go | 📅 2026-08-19 - Deploy static HTML/JS/CSS apps to Cloud Foundry.
   * [nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack) ⭐ 175 | 🐛 9 | 🌐 Go | 📅 2026-08-17 - Cloud Foundry buildpack for Node.js.
   * [php-buildpack](https://github.com/cloudfoundry/php-buildpack) ⭐ 141 | 🐛 12 | 🌐 Go | 📅 2026-08-19 - A Cloud Foundry Buildpack for PHP.
@@ -343,4 +343,4 @@ Feel free to contact me for any discussion, question, or comment. You can find o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
