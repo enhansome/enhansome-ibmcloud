@@ -12,10 +12,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T14:09:44Z",
+            "last_commit": "2026-08-23T14:11:19Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9375
+            "stars": 9378
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 228229631,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T04:12:11Z",
+            "last_commit": "2026-08-23T14:51:49Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
             "stars": 2897
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-31T06:23:53Z",
             "owner": "carbon-design-system",
             "repo": "carbon-charts",
-            "stars": 1045
+            "stars": 1046
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-20T21:19:58Z",
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom",
-            "stars": 293
+            "stars": 294
           }
         },
         {
@@ -965,7 +965,7 @@
                 "archived": false,
                 "id": 35617335,
                 "language": "Go",
-                "last_commit": "2026-08-21T12:10:44Z",
+                "last_commit": "2026-08-23T10:31:34Z",
                 "owner": "cloudfoundry",
                 "repo": "dotnet-core-buildpack",
                 "stars": 97
@@ -1297,7 +1297,7 @@
             "last_commit": "2021-11-17T12:45:52Z",
             "owner": "IBM-Cloud",
             "repo": "chatbot-watson-android",
-            "stars": 197
+            "stars": 196
           }
         },
         {
@@ -1839,7 +1839,7 @@
                 "archived": false,
                 "id": 27840307,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T11:26:32Z",
+                "last_commit": "2026-08-22T19:59:02Z",
                 "owner": "watson-developer-cloud",
                 "repo": "node-sdk",
                 "stars": 1473
@@ -2002,7 +2002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:58:17.436Z",
+    "last_updated": "2026-08-23T14:59:58.385Z",
     "original_repository": "victorshinya/awesome-ibmcloud",
     "original_repository_id": 163752109,
     "original_repository_sha": "c7bbfeed13dabb5e834bdf1994d0318f485dd7c2",
