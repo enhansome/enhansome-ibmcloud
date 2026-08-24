@@ -27,7 +27,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,384 | 🐛 1,054 | 🌐 TypeScript | 📅 2026-08-24 - A design system built by IBM.
+* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,384 | 🐛 1,048 | 🌐 TypeScript | 📅 2026-08-24 - A design system built by IBM.
 * [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,897 | 🐛 78 | 🌐 TypeScript | 📅 2026-08-24 - Svelte implementation of the Carbon Design System.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,107 | 🐛 86 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) ⚠️ Archived - React components for the Carbon Design System.
