@@ -12,10 +12,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:14:06Z",
+            "last_commit": "2026-08-25T05:40:12Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9384
+            "stars": 9386
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-08-21T17:43:27Z",
             "owner": "carbon-design-system",
             "repo": "carbon-design-kit",
-            "stars": 1107
+            "stars": 1108
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 154535475,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T01:11:43Z",
+            "last_commit": "2026-08-24T21:04:45Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-vue",
             "stars": 650
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-24T08:46:03Z",
             "owner": "carbon-design-system",
             "repo": "carbon-website",
-            "stars": 330
+            "stars": 329
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-20T21:19:58Z",
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom",
-            "stars": 295
+            "stars": 294
           }
         },
         {
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 161507858,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T10:24:28Z",
+            "last_commit": "2026-08-25T05:50:29Z",
             "owner": "carbon-design-system",
             "repo": "carbon-addons-iot-react",
             "stars": 103
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 94801963,
             "language": "Go",
-            "last_commit": "2026-08-24T10:11:19Z",
+            "last_commit": "2026-08-25T05:52:59Z",
             "owner": "IBM-Cloud",
             "repo": "terraform-provider-ibm",
             "stars": 360
@@ -507,7 +507,7 @@
             "last_commit": "2021-10-26T16:29:12Z",
             "owner": "IBM",
             "repo": "vision-terraform",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -555,7 +555,7 @@
             "archived": false,
             "id": 94188121,
             "language": "Go Template",
-            "last_commit": "2026-08-24T14:42:12Z",
+            "last_commit": "2026-08-25T01:21:19Z",
             "owner": "IBM",
             "repo": "charts",
             "stars": 311
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 153376495,
             "language": "Standard ML",
-            "last_commit": "2026-08-24T14:33:02Z",
+            "last_commit": "2026-08-25T03:36:52Z",
             "owner": "IBM",
             "repo": "cloud-pak",
             "stars": 148
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 159689252,
             "language": "Go",
-            "last_commit": "2026-08-24T12:22:57Z",
+            "last_commit": "2026-08-24T21:56:23Z",
             "owner": "IBM",
             "repo": "cloud-operators",
             "stars": 42
@@ -893,7 +893,7 @@
                 "last_commit": "2026-08-24T06:22:27Z",
                 "owner": "cloudfoundry",
                 "repo": "java-buildpack",
-                "stars": 453
+                "stars": 454
               }
             },
             {
@@ -2002,7 +2002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:22:10.941Z",
+    "last_updated": "2026-08-25T06:35:17.085Z",
     "original_repository": "victorshinya/awesome-ibmcloud",
     "original_repository_id": 163752109,
     "original_repository_sha": "c7bbfeed13dabb5e834bdf1994d0318f485dd7c2",
