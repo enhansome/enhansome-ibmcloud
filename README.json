@@ -12,10 +12,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:40:12Z",
+            "last_commit": "2026-08-25T14:22:10Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9386
+            "stars": 9385
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 154535475,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T21:04:45Z",
+            "last_commit": "2026-08-25T14:55:44Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-vue",
             "stars": 650
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 193129061,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:19:58Z",
+            "last_commit": "2026-08-25T12:07:22Z",
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom",
             "stars": 294
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 161507858,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T05:50:29Z",
+            "last_commit": "2026-08-25T10:36:55Z",
             "owner": "carbon-design-system",
             "repo": "carbon-addons-iot-react",
             "stars": 103
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 94801963,
             "language": "Go",
-            "last_commit": "2026-08-25T05:52:59Z",
+            "last_commit": "2026-08-25T13:56:36Z",
             "owner": "IBM-Cloud",
             "repo": "terraform-provider-ibm",
             "stars": 360
@@ -489,7 +489,7 @@
             "archived": false,
             "id": 238988646,
             "language": "HCL",
-            "last_commit": "2026-08-24T13:34:56Z",
+            "last_commit": "2026-08-25T09:49:42Z",
             "owner": "IBM",
             "repo": "ibm-spectrum-scale-cloud-install",
             "stars": 32
@@ -543,7 +543,7 @@
             "last_commit": "2026-05-19T07:37:04Z",
             "owner": "Kitura",
             "repo": "Kitura",
-            "stars": 7579
+            "stars": 7578
           }
         },
         {
@@ -555,7 +555,7 @@
             "archived": false,
             "id": 94188121,
             "language": "Go Template",
-            "last_commit": "2026-08-25T01:21:19Z",
+            "last_commit": "2026-08-25T12:42:27Z",
             "owner": "IBM",
             "repo": "charts",
             "stars": 311
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 153376495,
             "language": "Standard ML",
-            "last_commit": "2026-08-25T03:36:52Z",
+            "last_commit": "2026-08-25T12:33:35Z",
             "owner": "IBM",
             "repo": "cloud-pak",
             "stars": 148
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 159689252,
             "language": "Go",
-            "last_commit": "2026-08-24T21:56:23Z",
+            "last_commit": "2026-08-25T12:44:18Z",
             "owner": "IBM",
             "repo": "cloud-operators",
             "stars": 42
@@ -890,7 +890,7 @@
                 "archived": false,
                 "id": 9899931,
                 "language": "Go",
-                "last_commit": "2026-08-24T06:22:27Z",
+                "last_commit": "2026-08-25T14:50:21Z",
                 "owner": "cloudfoundry",
                 "repo": "java-buildpack",
                 "stars": 454
@@ -2002,7 +2002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:35:17.085Z",
+    "last_updated": "2026-08-25T15:27:24.735Z",
     "original_repository": "victorshinya/awesome-ibmcloud",
     "original_repository_id": 163752109,
     "original_repository_sha": "c7bbfeed13dabb5e834bdf1994d0318f485dd7c2",
