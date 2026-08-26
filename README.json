@@ -12,10 +12,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T14:22:10Z",
+            "last_commit": "2026-08-26T15:01:05Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9385
+            "stars": 9386
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T00:37:57Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
-            "stars": 2897
+            "stars": 2899
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-08-21T17:43:27Z",
             "owner": "carbon-design-system",
             "repo": "carbon-design-kit",
-            "stars": 1108
+            "stars": 1109
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-31T06:23:53Z",
             "owner": "carbon-design-system",
             "repo": "carbon-charts",
-            "stars": 1046
+            "stars": 1048
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 154535475,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T14:55:44Z",
+            "last_commit": "2026-08-25T17:18:38Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-vue",
             "stars": 650
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 161507858,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T10:36:55Z",
+            "last_commit": "2026-08-26T00:08:12Z",
             "owner": "carbon-design-system",
             "repo": "carbon-addons-iot-react",
-            "stars": 103
+            "stars": 104
           }
         },
         {
@@ -423,7 +423,7 @@
             "archived": false,
             "id": 12223350,
             "language": "Go",
-            "last_commit": "2026-08-24T08:04:30Z",
+            "last_commit": "2026-08-26T00:58:21Z",
             "owner": "cloudfoundry",
             "repo": "cli",
             "stars": 1929
@@ -489,7 +489,7 @@
             "archived": false,
             "id": 238988646,
             "language": "HCL",
-            "last_commit": "2026-08-25T09:49:42Z",
+            "last_commit": "2026-08-26T08:15:33Z",
             "owner": "IBM",
             "repo": "ibm-spectrum-scale-cloud-install",
             "stars": 32
@@ -555,7 +555,7 @@
             "archived": false,
             "id": 94188121,
             "language": "Go Template",
-            "last_commit": "2026-08-25T12:42:27Z",
+            "last_commit": "2026-08-26T13:10:41Z",
             "owner": "IBM",
             "repo": "charts",
             "stars": 311
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 153376495,
             "language": "Standard ML",
-            "last_commit": "2026-08-25T12:33:35Z",
+            "last_commit": "2026-08-26T15:33:25Z",
             "owner": "IBM",
             "repo": "cloud-pak",
             "stars": 148
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 159689252,
             "language": "Go",
-            "last_commit": "2026-08-25T12:44:18Z",
+            "last_commit": "2026-08-25T15:47:50Z",
             "owner": "IBM",
             "repo": "cloud-operators",
             "stars": 42
@@ -890,7 +890,7 @@
                 "archived": false,
                 "id": 9899931,
                 "language": "Go",
-                "last_commit": "2026-08-25T14:50:21Z",
+                "last_commit": "2026-08-26T13:58:40Z",
                 "owner": "cloudfoundry",
                 "repo": "java-buildpack",
                 "stars": 454
@@ -2002,7 +2002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:27:24.735Z",
+    "last_updated": "2026-08-26T16:05:24.693Z",
     "original_repository": "victorshinya/awesome-ibmcloud",
     "original_repository_id": 163752109,
     "original_repository_sha": "c7bbfeed13dabb5e834bdf1994d0318f485dd7c2",
