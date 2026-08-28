@@ -12,10 +12,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:08:12Z",
+            "last_commit": "2026-08-27T20:08:34Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9386
+            "stars": 9389
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 228229631,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:17:07Z",
+            "last_commit": "2026-08-27T22:32:48Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
             "stars": 2900
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-31T06:23:53Z",
             "owner": "carbon-design-system",
             "repo": "carbon-charts",
-            "stars": 1048
+            "stars": 1049
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 227893823,
             "language": "TypeScript",
-            "last_commit": "2026-07-31T23:51:18Z",
+            "last_commit": "2026-08-27T21:48:28Z",
             "owner": "carbon-design-system",
             "repo": "carbon-icons-svelte",
             "stars": 458
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 181062037,
             "language": "MDX",
-            "last_commit": "2026-08-13T16:50:02Z",
+            "last_commit": "2026-08-27T21:15:53Z",
             "owner": "carbon-design-system",
             "repo": "gatsby-theme-carbon",
             "stars": 357
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 199501316,
             "language": "MDX",
-            "last_commit": "2026-08-24T08:46:03Z",
+            "last_commit": "2026-08-27T14:58:04Z",
             "owner": "carbon-design-system",
             "repo": "carbon-website",
             "stars": 329
@@ -555,7 +555,7 @@
             "archived": false,
             "id": 94188121,
             "language": "Go Template",
-            "last_commit": "2026-08-27T06:44:38Z",
+            "last_commit": "2026-08-27T19:21:47Z",
             "owner": "IBM",
             "repo": "charts",
             "stars": 311
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 153376495,
             "language": "Standard ML",
-            "last_commit": "2026-08-27T09:33:45Z",
+            "last_commit": "2026-08-27T23:58:52Z",
             "owner": "IBM",
             "repo": "cloud-pak",
             "stars": 148
@@ -935,7 +935,7 @@
                 "archived": false,
                 "id": 15767202,
                 "language": "Go",
-                "last_commit": "2026-08-27T10:38:02Z",
+                "last_commit": "2026-08-27T12:19:09Z",
                 "owner": "cloudfoundry",
                 "repo": "php-buildpack",
                 "stars": 141
@@ -2002,7 +2002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:34.571Z",
+    "last_updated": "2026-08-28T00:00:09.990Z",
     "original_repository_info": {
       "archived": false,
       "id": 163752109,
