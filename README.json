@@ -12,11 +12,12 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:08:34Z",
+            "last_commit": "2026-08-28T22:54:00Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9389
-          }
+            "stars": 9391
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-27T22:32:48Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
-            "stars": 2900
-          }
+            "stars": 2902
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-design-kit",
             "stars": 1109
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-components-react",
             "stars": 1075
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-charts",
             "stars": 1049
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-components-vue",
             "stars": 650
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-components-angular",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-web-components",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-icons-svelte",
             "stars": 458
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "carbon-design-system",
             "repo": "gatsby-theme-carbon",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-website",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -177,11 +188,12 @@
             "archived": false,
             "id": 193129061,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T12:07:22Z",
+            "last_commit": "2026-08-28T14:49:03Z",
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-tutorial",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-addons-iot-react",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "carbon-design-system",
             "repo": "design-language-website",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-icons",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-angular-starter",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "carbon-design-system",
             "repo": "ibm-security",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom-website",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom-nextjs-template",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-addons-ics",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "carbon-design-system",
             "repo": "gatsby-starter-carbon-theme",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-icons-angular",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-sandbox",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "IBM",
             "repo": "carbon-addons-angular",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-badges",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         }
       ],
       "title": "Carbon Design System"
@@ -412,7 +438,8 @@
             "owner": "kubernetes-retired",
             "repo": "kui",
             "stars": 2895
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -423,11 +450,12 @@
             "archived": false,
             "id": 12223350,
             "language": "Go",
-            "last_commit": "2026-08-26T00:58:21Z",
+            "last_commit": "2026-08-28T19:08:53Z",
             "owner": "cloudfoundry",
             "repo": "cli",
-            "stars": 1929
-          }
+            "stars": 1928
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -438,11 +466,12 @@
             "archived": false,
             "id": 71359238,
             "language": null,
-            "last_commit": "2026-07-22T18:19:08Z",
+            "last_commit": "2026-08-28T16:16:52Z",
             "owner": "IBM-Cloud",
             "repo": "ibm-cloud-cli-release",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         }
       ],
       "title": "Command Line Tools"
@@ -459,11 +488,12 @@
             "archived": false,
             "id": 94801963,
             "language": "Go",
-            "last_commit": "2026-08-25T13:56:36Z",
+            "last_commit": "2026-08-28T07:21:32Z",
             "owner": "IBM-Cloud",
             "repo": "terraform-provider-ibm",
-            "stars": 360
-          }
+            "stars": 359
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "IBM",
             "repo": "cp4d-deployment",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "IBM",
             "repo": "ibm-spectrum-scale-cloud-install",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "IBM",
             "repo": "vision-terraform",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "IBM-Cloud",
             "repo": "LAMP-terraform-ibm",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         }
       ],
       "title": "Infrastructure"
@@ -544,7 +578,8 @@
             "owner": "Kitura",
             "repo": "Kitura",
             "stars": 7578
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -555,11 +590,12 @@
             "archived": false,
             "id": 94188121,
             "language": "Go Template",
-            "last_commit": "2026-08-27T19:21:47Z",
+            "last_commit": "2026-08-28T19:42:19Z",
             "owner": "IBM",
             "repo": "charts",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "Kitura",
             "repo": "swift-ubuntu-docker",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -585,11 +622,12 @@
             "archived": false,
             "id": 153376495,
             "language": "Standard ML",
-            "last_commit": "2026-08-27T23:58:52Z",
+            "last_commit": "2026-08-28T19:33:14Z",
             "owner": "IBM",
             "repo": "cloud-pak",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "IBM-Cloud",
             "repo": "logistics-wizard",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "Kitura",
             "repo": "SwiftyRequest",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "Kitura",
             "repo": "Kitura-net",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "Kitura",
             "repo": "Kitura-Sample",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "IBM-Swift",
             "repo": "generator-swiftserver",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "IBM-Cloud",
             "repo": "node-mqtt-for-anki-overdrive",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "Kitura",
             "repo": "Kitura-CouchDB",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "IBM",
             "repo": "cloud-operators",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "Kitura",
             "repo": "Kitura-Credentials",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "IBM-Cloud",
             "repo": "watson-conversation-variables",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "IBM-Cloud",
             "repo": "bluemix-go",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "Kitura",
             "repo": "Kitura-NIO",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "IBM-Cloud",
             "repo": "insurance-bot",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -799,7 +850,8 @@
             "owner": "IBM-Cloud",
             "repo": "Kitura-Starter",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "Kitura",
             "repo": "Kitura-Session",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -829,7 +882,8 @@
             "owner": "IBM-Cloud",
             "repo": "multiple-deployment-options",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -844,7 +898,8 @@
             "owner": "Kitura",
             "repo": "Kitura-CredentialsGoogle",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -859,7 +914,8 @@
             "owner": "victorshinya",
             "repo": "website-base",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -874,7 +930,8 @@
             "owner": "victorshinya",
             "repo": "go-cloud",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "group",
@@ -890,11 +947,12 @@
                 "archived": false,
                 "id": 9899931,
                 "language": "Go",
-                "last_commit": "2026-08-27T06:16:43Z",
+                "last_commit": "2026-08-28T19:08:54Z",
                 "owner": "cloudfoundry",
                 "repo": "java-buildpack",
-                "stars": 454
-              }
+                "stars": 453
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -909,7 +967,8 @@
                 "owner": "cloudfoundry",
                 "repo": "staticfile-buildpack",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -924,7 +983,8 @@
                 "owner": "cloudfoundry",
                 "repo": "nodejs-buildpack",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -935,11 +995,12 @@
                 "archived": false,
                 "id": 15767202,
                 "language": "Go",
-                "last_commit": "2026-08-27T12:19:09Z",
+                "last_commit": "2026-08-28T06:38:02Z",
                 "owner": "cloudfoundry",
                 "repo": "php-buildpack",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -954,7 +1015,8 @@
                 "owner": "cloudfoundry",
                 "repo": "python-buildpack",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -969,7 +1031,8 @@
                 "owner": "cloudfoundry",
                 "repo": "dotnet-core-buildpack",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -984,7 +1047,8 @@
                 "owner": "cloudfoundry",
                 "repo": "go-buildpack",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -999,7 +1063,8 @@
                 "owner": "cloudfoundry",
                 "repo": "ibm-websphere-liberty-buildpack",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1014,7 +1079,8 @@
                 "owner": "cloudfoundry",
                 "repo": "ruby-buildpack",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1029,7 +1095,8 @@
                 "owner": "cloudfoundry",
                 "repo": "nginx-buildpack",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1044,7 +1111,8 @@
                 "owner": "cloudfoundry",
                 "repo": "binary-buildpack",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1059,7 +1127,8 @@
                 "owner": "cloudfoundry",
                 "repo": "r-buildpack",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             }
           ]
         }
@@ -1082,7 +1151,8 @@
             "owner": "IBM-Cloud",
             "repo": "openwhisk-darkvisionapp",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1097,7 +1167,8 @@
             "owner": "IBM-Cloud",
             "repo": "openwhisk-visionapp",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1112,7 +1183,8 @@
             "owner": "victorshinya",
             "repo": "serverless-chatbot",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         }
       ],
       "title": "Serverless"
@@ -1133,7 +1205,8 @@
             "owner": "watson-developer-cloud",
             "repo": "speech-to-text-nodejs",
             "stars": 1113
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1147,8 +1220,9 @@
             "last_commit": "2025-09-17T20:30:28Z",
             "owner": "IBM",
             "repo": "MAX-Image-Resolution-Enhancer",
-            "stars": 1040
-          }
+            "stars": 1041
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1163,7 +1237,8 @@
             "owner": "watson-developer-cloud",
             "repo": "personality-insights-nodejs",
             "stars": 555
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1178,7 +1253,8 @@
             "owner": "watson-developer-cloud",
             "repo": "visual-recognition-coreml",
             "stars": 487
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1193,7 +1269,8 @@
             "owner": "watson-developer-cloud",
             "repo": "assistant-simple",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1208,7 +1285,8 @@
             "owner": "watson-developer-cloud",
             "repo": "tone-analyzer-nodejs",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1223,7 +1301,8 @@
             "owner": "germanattanasio",
             "repo": "visual-recognition-nodejs",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1238,7 +1317,8 @@
             "owner": "IBM",
             "repo": "MAX-Object-Detector",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1253,7 +1333,8 @@
             "owner": "watson-developer-cloud",
             "repo": "speech-javascript-sdk",
             "stars": 263
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1268,7 +1349,8 @@
             "owner": "watson-developer-cloud",
             "repo": "botkit-middleware",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1283,7 +1365,8 @@
             "owner": "watson-developer-cloud",
             "repo": "node-red-labs",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1298,7 +1381,8 @@
             "owner": "IBM-Cloud",
             "repo": "chatbot-watson-android",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1313,7 +1397,8 @@
             "owner": "IBM",
             "repo": "MAX-Audio-Classifier",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1328,7 +1413,8 @@
             "owner": "watson-developer-cloud",
             "repo": "natural-language-classifier-nodejs",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1343,7 +1429,8 @@
             "owner": "germanattanasio",
             "repo": "your-celebrity-match",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1358,7 +1445,8 @@
             "owner": "watson-developer-cloud",
             "repo": "natural-language-understanding-nodejs",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1373,7 +1461,8 @@
             "owner": "IBM",
             "repo": "MAX-Image-Caption-Generator",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1388,7 +1477,8 @@
             "owner": "watson-developer-cloud",
             "repo": "node-red-node-watson",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1403,7 +1493,8 @@
             "owner": "IBM",
             "repo": "MAX-Speech-to-Text-Converter",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1418,7 +1509,8 @@
             "owner": "watson-developer-cloud",
             "repo": "discovery-nodejs",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1433,7 +1525,8 @@
             "owner": "IBM",
             "repo": "MAX-Weather-Forecaster",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1448,7 +1541,8 @@
             "owner": "IBM",
             "repo": "MAX-Human-Pose-Estimator",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1463,7 +1557,8 @@
             "owner": "IBM",
             "repo": "MAX-Audio-Embedding-Generator",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1478,7 +1573,8 @@
             "owner": "IBM",
             "repo": "MAX-Text-Sentiment-Classifier",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1493,7 +1589,8 @@
             "owner": "IBM",
             "repo": "MAX-Toxic-Comment-Classifier",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1508,7 +1605,8 @@
             "owner": "IBM",
             "repo": "MAX-OCR",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1523,7 +1621,8 @@
             "owner": "IBM",
             "repo": "MAX-Fast-Neural-Style-Transfer",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1538,7 +1637,8 @@
             "owner": "watson-developer-cloud",
             "repo": "simple-chat-swift",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1553,7 +1653,8 @@
             "owner": "IBM",
             "repo": "MAX-Scene-Classifier",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1568,7 +1669,8 @@
             "owner": "watson-developer-cloud",
             "repo": "food-coach",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1583,7 +1685,8 @@
             "owner": "IBM",
             "repo": "MAX-Chinese-Phonetic-Similarity-Estimator",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1598,7 +1701,8 @@
             "owner": "IBM",
             "repo": "MAX-Question-Answering",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1613,7 +1717,8 @@
             "owner": "IBM",
             "repo": "MAX-Image-Segmenter",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1628,7 +1733,8 @@
             "owner": "IBM",
             "repo": "MAX-Inception-ResNet-v2",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1643,7 +1749,8 @@
             "owner": "IBM",
             "repo": "MAX-Text-Summarizer",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1658,7 +1765,8 @@
             "owner": "IBM",
             "repo": "MAX-Image-Colorizer",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1673,7 +1781,8 @@
             "owner": "IBM",
             "repo": "MAX-News-Text-Generator",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1688,7 +1797,8 @@
             "owner": "IBM",
             "repo": "MAX-Breast-Cancer-Mitosis-Detector",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1703,7 +1813,8 @@
             "owner": "IBM",
             "repo": "MAX-Named-Entity-Tagger",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1718,7 +1829,8 @@
             "owner": "IBM",
             "repo": "MAX-Sports-Video-Classifier",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1733,7 +1845,8 @@
             "owner": "IBM",
             "repo": "MAX-Audio-Sample-Generator",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1748,7 +1861,8 @@
             "owner": "IBM",
             "repo": "MAX-Review-Text-Generator",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1763,7 +1877,8 @@
             "owner": "IBM",
             "repo": "MAX-ResNet-50",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1774,11 +1889,12 @@
             "archived": false,
             "id": 148833156,
             "language": "Dockerfile",
-            "last_commit": "2026-07-16T07:58:10Z",
+            "last_commit": "2026-08-28T22:15:48Z",
             "owner": "IBM",
             "repo": "MAX-Base",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1793,7 +1909,8 @@
             "owner": "IBM",
             "repo": "MAX-Word-Embedding-Generator",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1808,7 +1925,8 @@
             "owner": "IBM",
             "repo": "MAX-Nucleus-Segmenter",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "item",
@@ -1823,7 +1941,8 @@
             "owner": "victorshinya",
             "repo": "with-watson",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:41:50.781Z"
         },
         {
           "node_type": "group",
@@ -1843,7 +1962,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "node-sdk",
                 "stars": 1473
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1858,7 +1978,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "python-sdk",
                 "stars": 1449
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1873,7 +1994,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "swift-sdk",
                 "stars": 869
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1888,7 +2010,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "java-sdk",
                 "stars": 597
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1903,7 +2026,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "unity-sdk",
                 "stars": 565
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1918,7 +2042,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "android-sdk",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1933,7 +2058,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "dotnet-standard-sdk",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1948,7 +2074,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "go-sdk",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1963,7 +2090,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "ruby-sdk",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1978,7 +2106,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "salesforce-sdk",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             },
             {
               "node_type": "item",
@@ -1993,7 +2122,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "openwhisk-sdk",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:41:50.781Z"
             }
           ]
         }
@@ -2002,7 +2132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:00:09.990Z",
+    "last_updated": "2026-08-28T23:41:50.781Z",
     "original_repository_info": {
       "archived": false,
       "id": 163752109,
