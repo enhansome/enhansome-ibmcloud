@@ -27,8 +27,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,392 | 🐛 1,027 | 🌐 TypeScript | 📅 2026-08-29 - A design system built by IBM.
-* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,902 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-27 - Svelte implementation of the Carbon Design System.
+* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,393 | 🐛 1,027 | 🌐 TypeScript | 📅 2026-08-29 - A design system built by IBM.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,902 | 🐛 78 | 🌐 TypeScript | 📅 2026-08-29 - Svelte implementation of the Carbon Design System.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,109 | 🐛 81 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) ⚠️ Archived - React components for the Carbon Design System.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) ⭐ 1,049 | 🐛 274 | 🌐 HTML | 📅 2026-07-31 - 📊 📈 Reusable charts implemented using D3 & typescript.
@@ -80,10 +80,10 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Deploy and manage your applications with Cloud Foundry.*
 
-* [kitura](https://github.com/IBM-Swift/Kitura) ⭐ 7,578 | 🐛 70 | 🌐 Swift | 📅 2026-05-19 - A Swift web framework and HTTP server.
+* [kitura](https://github.com/IBM-Swift/Kitura) ⭐ 7,579 | 🐛 70 | 🌐 Swift | 📅 2026-05-19 - A Swift web framework and HTTP server.
 * [charts](https://github.com/IBM/charts) ⭐ 311 | 🐛 4 | 🌐 Go Template | 📅 2026-08-28 - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 * [swift-ubuntu-docker](https://github.com/IBM-Swift/swift-ubuntu-docker) ⭐ 151 | 🐛 0 | 🌐 Vim script | 📅 2019-07-16 - Docker image packaged with the Swift binaries.
-* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 148 | 🐛 7 | 🌐 Standard ML | 📅 2026-08-28 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
+* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 148 | 🐛 7 | 🌐 Standard ML | 📅 2026-08-29 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
 * [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard) ⚠️ Archived - The Logistics Wizard is an end-to-end, smart supply chain management solution.
 * [swifty-request](https://github.com/IBM-Swift/SwiftyRequest) ⭐ 110 | 🐛 13 | 🌐 Swift | 📅 2024-11-09 - SwiftyRequest is an HTTP networking library built for Swift.
 * [kitura-net](https://github.com/IBM-Swift/Kitura-net) ⭐ 104 | 🐛 11 | 🌐 Swift | 📅 2021-09-13 - Kitura networking.
@@ -104,7 +104,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [webiste-base](https://github.com/victorshinya/website-base) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2022-12-09 - Deploy your website using a Node.js server.
 * [go-cloud](https://github.com/victorshinya/go-cloud) ⭐ 3 | 🐛 1 | 🌐 HTML | 📅 2021-11-12 - A Golang boilerplate code to benchmark cloud platforms to host a Go applications.
 * [cloud-foundry](https://github.com/cloudfoundry/) - IBM Cloud Platform as a Service.
-  * [java-buildpack](https://github.com/cloudfoundry/java-buildpack) ⭐ 453 | 🐛 9 | 🌐 Go | 📅 2026-08-28 - Cloud Foundry buildpack for running Java applications.
+  * [java-buildpack](https://github.com/cloudfoundry/java-buildpack) ⭐ 453 | 🐛 8 | 🌐 Go | 📅 2026-08-29 - Cloud Foundry buildpack for running Java applications.
   * [staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack) ⭐ 203 | 🐛 5 | 🌐 Go | 📅 2026-08-19 - Deploy static HTML/JS/CSS apps to Cloud Foundry.
   * [nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack) ⭐ 175 | 🐛 10 | 🌐 Go | 📅 2026-08-26 - Cloud Foundry buildpack for Node.js.
   * [php-buildpack](https://github.com/cloudfoundry/php-buildpack) ⭐ 141 | 🐛 7 | 🌐 Go | 📅 2026-08-28 - A Cloud Foundry Buildpack for PHP.
@@ -180,7 +180,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform.
 * [personality-insights-python](https://github.com/watson-developer-cloud/personality-insights-python) - Sample Python Application for the IBM Watson Personality Insights Service.
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
-  * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) ⭐ 1,473 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-22 - ☄️ Node.js library to access IBM Watson services.
+  * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) ⭐ 1,473 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-29 - ☄️ Node.js library to access IBM Watson services.
   * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) ⭐ 1,449 | 🐛 5 | 🌐 Python | 📅 2026-01-26 - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud.
   * [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) ⭐ 869 | 🐛 4 | 🌐 Swift | 📅 2025-04-22 - 📱 The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications.
   * [java-sdk](https://github.com/watson-developer-cloud/java-sdk) ⭐ 597 | 🐛 6 | 🌐 Java | 📅 2026-01-14 - 🥇 Java SDK to use the IBM Watson services.
