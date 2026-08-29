@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A design system built by IBM",
+            "homepage": "https://www.carbondesignsystem.com",
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T22:54:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:23:44Z",
+            "open_issues": 1027,
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9391
+            "stars": 9392,
+            "topics": [
+              "design-system",
+              "hacktoberfest",
+              "javascript",
+              "react",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -26,12 +37,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Svelte implementation of the Carbon Design System",
+            "homepage": "https://svelte.carbondesignsystem.com",
             "id": 228229631,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:32:48Z",
+            "open_issues": 80,
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
-            "stars": 2902
+            "stars": 2902,
+            "topics": [
+              "carbon",
+              "carbon-design-system",
+              "component-library",
+              "design-system",
+              "svelte",
+              "svelte-components",
+              "typescript",
+              "ui-components",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -42,12 +68,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A versioned, comprehensive kit of the Carbon Design System visual assets (components, icons, pictograms, text styles, color styles, grid templates).",
+            "homepage": null,
             "id": 86360855,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-08-21T17:43:27Z",
+            "open_issues": 81,
             "owner": "carbon-design-system",
             "repo": "carbon-design-kit",
-            "stars": 1109
+            "stars": 1109,
+            "topics": [
+              "carbon-design-system",
+              "design",
+              "figma"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -58,12 +93,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "React components for the Carbon Design System",
+            "homepage": "http://react.carbondesignsystem.com",
             "id": 92527058,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-27T15:22:46Z",
+            "open_issues": 0,
             "owner": "carbon-design-system",
             "repo": "carbon-components-react",
-            "stars": 1075
+            "stars": 1075,
+            "topics": [
+              "carbon-design-system",
+              "javascript",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -74,12 +118,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript",
+            "homepage": "https://charts.carbondesignsystem.com",
             "id": 143059476,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T06:23:53Z",
+            "open_issues": 274,
             "owner": "carbon-design-system",
             "repo": "carbon-charts",
-            "stars": 1049
+            "stars": 1049,
+            "topics": [
+              "angular",
+              "carbon-design-system",
+              "charts",
+              "d3",
+              "d3js",
+              "dataviz",
+              "hacktoberfest",
+              "ibm",
+              "javascript",
+              "react",
+              "svelte",
+              "typescript",
+              "vanilla",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -90,12 +154,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vue implementation of the Carbon Design System",
+            "homepage": "http://vue.carbondesignsystem.com",
             "id": 154535475,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T17:18:38Z",
+            "open_issues": 24,
             "owner": "carbon-design-system",
             "repo": "carbon-components-vue",
-            "stars": 650
+            "stars": 650,
+            "topics": [
+              "carbon",
+              "carbon-components-vue",
+              "hacktoberfest",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -106,12 +180,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Angular implementation of the Carbon Design System for IBM.",
+            "homepage": "https://angular.carbondesignsystem.com",
             "id": 143059442,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T18:02:15Z",
+            "open_issues": 234,
             "owner": "carbon-design-system",
             "repo": "carbon-components-angular",
-            "stars": 564
+            "stars": 564,
+            "topics": [
+              "angular",
+              "carbon-design-system",
+              "component-library",
+              "hacktoberfest",
+              "ibm"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -122,12 +207,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Carbon Design System variant on top of Web Components",
+            "homepage": "https://web-components.carbondesignsystem.com/",
             "id": 186906621,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-08T16:19:08Z",
+            "open_issues": 5,
             "owner": "carbon-design-system",
             "repo": "carbon-web-components",
-            "stars": 474
+            "stars": 474,
+            "topics": [
+              "carbon-design-system",
+              "community",
+              "component-library",
+              "design-system",
+              "hacktoberfest",
+              "ibm",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -138,12 +236,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Carbon Design System SVG icons as Svelte components",
+            "homepage": "https://carbon-icons-svelte.onrender.com",
             "id": 227893823,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:48:28Z",
+            "open_issues": 0,
             "owner": "carbon-design-system",
             "repo": "carbon-icons-svelte",
-            "stars": 458
+            "stars": 458,
+            "topics": [
+              "carbon",
+              "carbon-design-system",
+              "components",
+              "ibm",
+              "icons",
+              "svelte",
+              "svelte-components",
+              "svg",
+              "svg-icons",
+              "typescript-definitions"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -154,12 +268,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Carbon inspired Gatsby theme",
+            "homepage": "https://gatsby.carbondesignsystem.com/",
             "id": 181062037,
             "language": "MDX",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:15:53Z",
+            "open_issues": 67,
             "owner": "carbon-design-system",
             "repo": "gatsby-theme-carbon",
-            "stars": 357
+            "stars": 357,
+            "topics": [
+              "carbon",
+              "gatsby",
+              "gatsby-theme-carbon",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -170,12 +294,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The website for the Carbon Design System.",
+            "homepage": "https://www.carbondesignsystem.com",
             "id": 199501316,
             "language": "MDX",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T14:58:04Z",
+            "open_issues": 127,
             "owner": "carbon-design-system",
             "repo": "carbon-website",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "carbon",
+              "gatsby",
+              "hacktoberfest",
+              "ibm"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -186,12 +320,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Carbon for IBM.com is based on the Carbon Design System for IBM",
+            "homepage": "https://www.ibm.com/standards/carbon/",
             "id": 193129061,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:49:03Z",
+            "open_issues": 20,
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "carbon-design-system",
+              "css",
+              "html",
+              "javascript",
+              "lit",
+              "scss",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -202,12 +349,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An app for the Carbon Design System tutorial",
+            "homepage": null,
             "id": 182815745,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-03T16:24:27Z",
+            "open_issues": 0,
             "owner": "carbon-design-system",
             "repo": "carbon-tutorial",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -218,12 +370,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of React components shared between IBM Maximo Asset Monitor (Watson IoT), IBM Maximo Visual Inspection, and Graphite products.",
+            "homepage": "https://carbon-design-system.github.io/carbon-addons-iot-react/",
             "id": 161507858,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T00:08:12Z",
+            "open_issues": 248,
             "owner": "carbon-design-system",
             "repo": "carbon-addons-iot-react",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "carbon-addons",
+              "carbon-design-system",
+              "graphite",
+              "ibm",
+              "ibm-watson-iot",
+              "iot",
+              "maximo",
+              "maximo-application-suite",
+              "maximo-asset-monitor",
+              "maximo-visual-inspection"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -234,12 +402,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IBM Design Language website",
+            "homepage": "https://www.ibm.com/design/language/",
             "id": 181498056,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-08-24T09:05:55Z",
+            "open_issues": 1,
             "owner": "carbon-design-system",
             "repo": "design-language-website",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -250,12 +425,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SVG icon library for the Carbon Design System",
+            "homepage": "https://www.carbondesignsystem.com/guidelines/iconography/library",
             "id": 85987501,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-23T14:22:06Z",
+            "open_issues": 37,
             "owner": "carbon-design-system",
             "repo": "carbon-icons",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "carbon-design-system",
+              "icons",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -266,12 +450,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple starter app for bootstrapping applications with Carbon",
+            "homepage": "https://carbon-angular-starter.netlify.com/",
             "id": 158452318,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-23T14:24:53Z",
+            "open_issues": 32,
             "owner": "carbon-design-system",
             "repo": "carbon-angular-starter",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "angular",
+              "carbon-components-angular",
+              "carbon-design-system",
+              "ibm",
+              "starter-project"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -282,12 +477,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Carbon-powered React component library built by IBM Security",
+            "homepage": "https://ibm-security.carbondesignsystem.com",
             "id": 200102249,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-17T16:08:05Z",
+            "open_issues": 28,
             "owner": "carbon-design-system",
             "repo": "ibm-security",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "carbon-design-system",
+              "ibm-security",
+              "javascript",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -298,12 +503,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the Carbon for IBM.com website, which includes documentation and guidelines around design and development for IBM.com",
+            "homepage": "https://www.ibm.com/standards/carbon/",
             "id": 202376156,
             "language": "MDX",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-23T16:14:42Z",
+            "open_issues": 28,
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom-website",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "carbon-design-system",
+              "hacktoberfest",
+              "ibm"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -314,12 +528,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is a NextJS template utilizing Carbon for IBM.com React",
+            "homepage": null,
             "id": 267152773,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-30T18:14:56Z",
+            "open_issues": 22,
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom-nextjs-template",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -330,12 +549,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Carbon Add-on for IBM Collaboration Solutions",
+            "homepage": "http://ics.carbondesignsystem.com",
             "id": 116168424,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-23T14:23:23Z",
+            "open_issues": 44,
             "owner": "carbon-design-system",
             "repo": "carbon-addons-ics",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "add-on",
+              "icons",
+              "react",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -346,12 +575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Gatsby starter demonstrating the Gatsby Carbon theme",
+            "homepage": null,
             "id": 183132546,
             "language": "MDX",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-22T17:33:07Z",
+            "open_issues": 8,
             "owner": "carbon-design-system",
             "repo": "gatsby-starter-carbon-theme",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -362,12 +596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Carbon icons, in Angular!",
+            "homepage": "https://carbon-icons-angular.netlify.com",
             "id": 220304408,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-12T02:33:23Z",
+            "open_issues": 67,
             "owner": "carbon-design-system",
             "repo": "carbon-icons-angular",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -378,12 +617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme playground for Carbon Components",
+            "homepage": "http://themes.carbondesignsystem.com/",
             "id": 91586623,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-05-23T14:22:30Z",
+            "open_issues": 19,
             "owner": "carbon-design-system",
             "repo": "carbon-sandbox",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -394,12 +638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Common Addons for Carbon Angular projects",
+            "homepage": null,
             "id": 241686081,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T21:14:57Z",
+            "open_issues": 5,
             "owner": "IBM",
             "repo": "carbon-addons-angular",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -410,12 +659,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A site to apply for Carbon badges.",
+            "homepage": "https://carbon-badges.vercel.app",
             "id": 284116085,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-07-11T17:42:47Z",
+            "open_issues": 4,
             "owner": "carbon-design-system",
             "repo": "carbon-badges",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         }
@@ -432,12 +686,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A hybrid command-line/UI development experience for cloud-native development",
+            "homepage": null,
             "id": 159242360,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-12T22:06:01Z",
+            "open_issues": 6,
             "owner": "kubernetes-retired",
             "repo": "kui",
-            "stars": 2895
+            "stars": 2895,
+            "topics": [
+              "cli",
+              "dashboard",
+              "electron",
+              "kubectl",
+              "kubernetes",
+              "plugin",
+              "ui",
+              "visualization",
+              "visualizations"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -448,12 +717,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official command line client for Cloud Foundry",
+            "homepage": "https://docs.cloudfoundry.org/cf-cli",
             "id": 12223350,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:08:53Z",
+            "open_issues": 80,
             "owner": "cloudfoundry",
             "repo": "cli",
-            "stars": 1928
+            "stars": 1929,
+            "topics": [
+              "cf-cli",
+              "cli",
+              "cloud-foundry",
+              "cloud-foundry-cli"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -464,12 +743,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 71359238,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:16:52Z",
+            "open_issues": 29,
             "owner": "IBM-Cloud",
             "repo": "ibm-cloud-cli-release",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         }
@@ -486,12 +770,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs",
+            "homepage": null,
             "id": 94801963,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T07:21:32Z",
+            "open_issues": 811,
             "owner": "IBM-Cloud",
             "repo": "terraform-provider-ibm",
-            "stars": 359
+            "stars": 359,
+            "topics": [
+              "bluemix",
+              "ibm",
+              "softlayer",
+              "terraform",
+              "terraform-provider"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -502,12 +797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The repo provides instructions on deploying CloudPakforData on the public cloud.",
+            "homepage": null,
             "id": 250500814,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T11:45:37Z",
+            "open_issues": 12,
             "owner": "IBM",
             "repo": "cp4d-deployment",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -518,12 +818,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud Resource Provisioning framework for IBM Storage Scale (or gpfs)",
+            "homepage": null,
             "id": 238988646,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T00:52:12Z",
+            "open_issues": 5,
             "owner": "IBM",
             "repo": "ibm-spectrum-scale-cloud-install",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "ansible",
+              "aws",
+              "azure",
+              "cloud",
+              "gcp",
+              "gpfs",
+              "hcl2",
+              "ibm-cloud",
+              "ibm-storage-scale",
+              "ibmcloud",
+              "packer",
+              "spectrum-scale",
+              "storage-scale",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -534,12 +854,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "IBM Maximo Visual Inspection sample terraform templates for deployment in IBM Cloud (formerly IBM PowerAI Vision and IBM Visual Insights)",
+            "homepage": "https://www.ibm.com/products/ibm-maximo-visual-inspection",
             "id": 239935420,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-26T16:29:12Z",
+            "open_issues": 0,
             "owner": "IBM",
             "repo": "vision-terraform",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "ibm-cloud",
+              "terraform-template",
+              "vpc"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -550,12 +881,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Automate deployment of environments using Infrastructure as Code",
+            "homepage": "https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-infrastructure-as-code-terraform",
             "id": 118156301,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-08T19:29:09Z",
+            "open_issues": 0,
             "owner": "IBM-Cloud",
             "repo": "LAMP-terraform-ibm",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ibm-cloud",
+              "ibm-cloud-solutions",
+              "infrastructure-as-code",
+              "object-storage",
+              "terraform",
+              "virtual-server"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         }
@@ -572,12 +915,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Swift web framework and HTTP server.",
+            "homepage": "http://www.kitura.dev",
             "id": 51308720,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-19T07:37:04Z",
+            "open_issues": 70,
             "owner": "Kitura",
             "repo": "Kitura",
-            "stars": 7578
+            "stars": 7578,
+            "topics": [
+              "kitura",
+              "routing",
+              "server",
+              "server-side-swift",
+              "ssl",
+              "swift",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -588,12 +944,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The IBM/charts repository provides helm charts for IBM and Third Party middleware.",
+            "homepage": null,
             "id": 94188121,
             "language": "Go Template",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:42:19Z",
+            "open_issues": 4,
             "owner": "IBM",
             "repo": "charts",
-            "stars": 311
+            "stars": 311,
+            "topics": [
+              "docker",
+              "helm",
+              "helm-charts",
+              "ibm",
+              "ibm-bluemix",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -604,12 +972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚫 This repo is deprecated - please use the images here: https://hub.docker.com/_/swift",
+            "homepage": null,
             "id": 51377089,
             "language": "Vim script",
+            "license": "Apache-2.0",
             "last_commit": "2019-07-16T21:15:31Z",
+            "open_issues": 0,
             "owner": "Kitura",
             "repo": "swift-ubuntu-docker",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -620,12 +993,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, and management of production workloads. ",
+            "homepage": null,
             "id": 153376495,
             "language": "Standard ML",
-            "last_commit": "2026-08-28T19:33:14Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:42:23Z",
+            "open_issues": 7,
             "owner": "IBM",
             "repo": "cloud-pak",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -636,12 +1014,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Logistics Wizard is an end-to-end, smart supply chain management solution that showcases how to execute hybrid cloud, microservices, and predictive data analytics in the real world.",
+            "homepage": null,
             "id": 57235612,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2020-05-05T16:21:54Z",
+            "open_issues": 0,
             "owner": "IBM-Cloud",
             "repo": "logistics-wizard",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "bluemix",
+              "cloudfoundry",
+              "ibm-cloud-solutions",
+              "loopback",
+              "microservices",
+              "nodejs",
+              "openwhisk",
+              "python",
+              "react",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -652,12 +1046,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftyRequest is an HTTP networking library built for Swift.",
+            "homepage": null,
             "id": 97132462,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-09T17:11:00Z",
+            "open_issues": 13,
             "owner": "Kitura",
             "repo": "SwiftyRequest",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -668,12 +1067,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kitura networking",
+            "homepage": null,
             "id": 51111554,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-13T06:03:50Z",
+            "open_issues": 11,
             "owner": "Kitura",
             "repo": "Kitura-net",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "fastcgi",
+              "headers",
+              "http",
+              "kitura",
+              "networking",
+              "request",
+              "response",
+              "socket",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -684,12 +1098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sample application that shows how to use various features of Kitura",
+            "homepage": null,
             "id": 53511493,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-18T17:25:05Z",
+            "open_issues": 4,
             "owner": "Kitura",
             "repo": "Kitura-Sample",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -700,12 +1119,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "WARNING: This repository is no longer maintained",
+            "homepage": null,
             "id": 72868926,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-27T20:50:25Z",
+            "open_issues": 0,
             "owner": "IBM-Swift",
             "repo": "generator-swiftserver",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "api",
+              "generator",
+              "generator-swiftserver",
+              "kitura",
+              "rest",
+              "server",
+              "swift",
+              "yeoman"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -716,12 +1149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js Controller and MQTT API for Anki Overdrive",
+            "homepage": null,
             "id": 49125605,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2018-09-10T14:55:24Z",
+            "open_issues": 3,
             "owner": "IBM-Cloud",
             "repo": "node-mqtt-for-anki-overdrive",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -732,12 +1170,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CouchDB adapter for Kitura",
+            "homepage": null,
             "id": 51158521,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-19T09:47:22Z",
+            "open_issues": 10,
             "owner": "Kitura",
             "repo": "Kitura-CouchDB",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "cloudant",
+              "couchdb",
+              "couchdb-client",
+              "database",
+              "kitura",
+              "nosql"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -748,12 +1198,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provision and bind IBM Cloud services to your Kubernetes cluster in a Kubernetes-native way",
+            "homepage": null,
             "id": 159689252,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:47:50Z",
+            "open_issues": 36,
             "owner": "IBM",
             "repo": "cloud-operators",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "cloud-service",
+              "ibm",
+              "kubernetes",
+              "operator"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -764,12 +1224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pluggable framework for validating user credentials in a Swift server using Kitura",
+            "homepage": null,
             "id": 51963308,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-26T14:05:53Z",
+            "open_issues": 2,
             "owner": "Kitura",
             "repo": "Kitura-Credentials",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -780,12 +1245,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Samples using context variables and (system) entities in IBM Watson Assistant (formerly Conversation) service on IBM Cloud",
+            "homepage": "https://ibm.com/cloud",
             "id": 94864377,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-07-20T13:19:42Z",
+            "open_issues": 0,
             "owner": "IBM-Cloud",
             "repo": "watson-conversation-variables",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "chatbot",
+              "chatbots",
+              "ibm-cloud",
+              "tips-and-tricks",
+              "watson-assistant",
+              "watson-conversation"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -796,12 +1273,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go library for accessing the Bluemix API",
+            "homepage": null,
             "id": 89257570,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-10T20:24:48Z",
+            "open_issues": 44,
             "owner": "IBM-Cloud",
             "repo": "bluemix-go",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "bluemix",
+              "cloud-foundry",
+              "golang",
+              "k8s-cluster",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -812,12 +1300,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A networking library for Kitura, based on SwiftNIO",
+            "homepage": null,
             "id": 133330351,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-07T05:19:11Z",
+            "open_issues": 18,
             "owner": "Kitura",
             "repo": "Kitura-NIO",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "http",
+              "httpserver",
+              "kitura",
+              "kitura-net",
+              "kitura-nio",
+              "linux",
+              "macos",
+              "server-side-swift",
+              "swift",
+              "swiftnio"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -828,12 +1332,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A message based insurance experience",
+            "homepage": "http://cloudco.mybluemix.net",
             "id": 56619161,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-02T20:52:57Z",
+            "open_issues": 0,
             "owner": "IBM-Cloud",
             "repo": "insurance-bot",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "chatbot",
+              "cloud-foundry",
+              "demo",
+              "ibm-cloud",
+              "ibm-cloud-solutions",
+              "nodejs",
+              "watson-assistant",
+              "watson-conversation"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -844,12 +1362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kitura-based server starter application for the IBM Cloud.",
+            "homepage": null,
             "id": 70893674,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2019-10-01T17:10:58Z",
+            "open_issues": 1,
             "owner": "IBM-Cloud",
             "repo": "Kitura-Starter",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -860,12 +1383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pluggable framework for managing user sessions in a Swift server using Kitura",
+            "homepage": null,
             "id": 54966710,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-05T17:26:40Z",
+            "open_issues": 2,
             "owner": "Kitura",
             "repo": "Kitura-Session",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -876,12 +1404,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shows how one service can be deployed to multiple deployment options",
+            "homepage": null,
             "id": 87825605,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-23T00:58:51Z",
+            "open_issues": 0,
             "owner": "IBM-Cloud",
             "repo": "multiple-deployment-options",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "bluemix",
+              "cloudfoundry",
+              "docker",
+              "fibonacci",
+              "ibm-cloud-solutions",
+              "kubernetes",
+              "openwhisk"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -892,12 +1433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for the Kitura-Credentials framework that authenticates using the Google web login",
+            "homepage": null,
             "id": 55336398,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-27T15:25:12Z",
+            "open_issues": 0,
             "owner": "Kitura",
             "repo": "Kitura-CredentialsGoogle",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -908,12 +1454,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deploy your website using a Node.js server on IBM Cloud (Cloud Foundry service)",
+            "homepage": null,
             "id": 160711987,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-09T08:26:30Z",
+            "open_issues": 2,
             "owner": "victorshinya",
             "repo": "website-base",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cloud-foundry",
+              "ibm",
+              "ibm-cloud",
+              "landing-page",
+              "node",
+              "nodejs",
+              "static-site",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -924,12 +1484,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Golang boilerplate code to test and benchmark cloud platforms.",
+            "homepage": null,
             "id": 193632847,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-11-12T14:52:21Z",
+            "open_issues": 1,
             "owner": "victorshinya",
             "repo": "go-cloud",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "go",
+              "go-cloud",
+              "golang",
+              "golang-boilerplate",
+              "golang-examples",
+              "golang-server"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -945,12 +1517,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Foundry buildpack for running Java applications",
+                "homepage": null,
                 "id": 9899931,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:08:54Z",
+                "open_issues": 9,
                 "owner": "cloudfoundry",
                 "repo": "java-buildpack",
-                "stars": 453
+                "stars": 453,
+                "topics": [
+                  "buildpack",
+                  "cloud-foundry",
+                  "java",
+                  "java-buildpack"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -961,12 +1543,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy static HTML/JS/CSS apps to Cloud Foundry",
+                "homepage": null,
                 "id": 22798547,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T15:29:48Z",
+                "open_issues": 5,
                 "owner": "cloudfoundry",
                 "repo": "staticfile-buildpack",
-                "stars": 203
+                "stars": 203,
+                "topics": [
+                  "v2b"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -977,12 +1566,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Foundry buildpack for Node.js",
+                "homepage": "http://docs.cloudfoundry.org/buildpacks/",
                 "id": 8733172,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:52:58Z",
+                "open_issues": 10,
                 "owner": "cloudfoundry",
                 "repo": "nodejs-buildpack",
-                "stars": 175
+                "stars": 175,
+                "topics": [
+                  "v2b"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -993,12 +1589,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cloud Foundry Buildpack for PHP.",
+                "homepage": null,
                 "id": 15767202,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T06:38:02Z",
+                "open_issues": 7,
                 "owner": "cloudfoundry",
                 "repo": "php-buildpack",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "v2b"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -1009,12 +1612,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Foundry buildpack for the Python Language",
+                "homepage": "http://docs.cloudfoundry.org/buildpacks/",
                 "id": 19470496,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T20:41:15Z",
+                "open_issues": 8,
                 "owner": "cloudfoundry",
                 "repo": "python-buildpack",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "v2b"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -1025,12 +1635,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Foundry buildpack for .NET Core on Linux",
+                "homepage": "http://docs.cloudfoundry.org/buildpacks/",
                 "id": 35617335,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:53:33Z",
+                "open_issues": 79,
                 "owner": "cloudfoundry",
                 "repo": "dotnet-core-buildpack",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "v2b"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -1041,12 +1658,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Foundry buildpack for the Go Language",
+                "homepage": "http://docs.cloudfoundry.org/buildpacks/",
                 "id": 18520957,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T15:54:04Z",
+                "open_issues": 7,
                 "owner": "cloudfoundry",
                 "repo": "go-buildpack",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "v2b"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -1057,12 +1681,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IBM WebSphere Application Server Liberty Buildpack",
+                "homepage": null,
                 "id": 12596989,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-02T14:17:29Z",
+                "open_issues": 0,
                 "owner": "cloudfoundry",
                 "repo": "ibm-websphere-liberty-buildpack",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -1073,12 +1702,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Foundry buildpack for Ruby, Sinatra and Rails",
+                "homepage": "http://docs.cloudfoundry.org/buildpacks/",
                 "id": 7805144,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:53:04Z",
+                "open_issues": 42,
                 "owner": "cloudfoundry",
                 "repo": "ruby-buildpack",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "v2b"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -1089,12 +1725,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Foundry buildpack that provides NGINX",
+                "homepage": null,
                 "id": 116298011,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T15:35:04Z",
+                "open_issues": 8,
                 "owner": "cloudfoundry",
                 "repo": "nginx-buildpack",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "v2b"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -1105,12 +1748,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy binaries to Cloud Foundry",
+                "homepage": null,
                 "id": 35125450,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-15T14:06:45Z",
+                "open_issues": 2,
                 "owner": "cloudfoundry",
                 "repo": "binary-buildpack",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "v2b"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -1121,12 +1771,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Foundry buildpack for R",
+                "homepage": null,
                 "id": 120503464,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-06T14:01:53Z",
+                "open_issues": 8,
                 "owner": "cloudfoundry",
                 "repo": "r-buildpack",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "v2b"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             }
@@ -1145,12 +1802,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Discover dark data in videos with IBM Watson and IBM Cloud Functions",
+            "homepage": null,
             "id": 54635556,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-03-25T22:28:11Z",
+            "open_issues": 1,
             "owner": "IBM-Cloud",
             "repo": "openwhisk-darkvisionapp",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "audio",
+              "cloudant",
+              "ibm-bluemix",
+              "ibm-cloud-solutions",
+              "openwhisk",
+              "video",
+              "vision",
+              "watson-speech",
+              "watson-visual-recognition"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1161,12 +1833,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A sample iOS app for image tagging and face detection built with IBM Bluemix OpenWhisk",
+            "homepage": null,
             "id": 52446896,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2018-07-25T07:37:10Z",
+            "open_issues": 0,
             "owner": "IBM-Cloud",
             "repo": "openwhisk-visionapp",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "cloudant",
+              "ibm-bluemix",
+              "ibm-cloud-solutions",
+              "openwhisk",
+              "watson-visual-recognition"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1177,12 +1860,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create and deploy your chatbot using Serverless",
+            "homepage": null,
             "id": 164014779,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-04-05T03:51:33Z",
+            "open_issues": 0,
             "owner": "victorshinya",
             "repo": "serverless-chatbot",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "apache-openwhisk",
+              "chatbot",
+              "chatbot-application",
+              "ibm-bluemix",
+              "ibm-cloud",
+              "ibm-cloud-functions",
+              "openwhisk",
+              "serverless",
+              "serverless-chatbot",
+              "serverless-functions",
+              "serverless-solution",
+              "watson",
+              "watson-assistant",
+              "watson-conversation"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         }
@@ -1199,12 +1902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":microphone: Sample Node.js Application for the IBM Watson Speech to Text Service",
+            "homepage": "https://speech-to-text-demo.ng.bluemix.net",
             "id": 30329495,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-07T03:55:51Z",
+            "open_issues": 26,
             "owner": "watson-developer-cloud",
             "repo": "speech-to-text-nodejs",
-            "stars": 1113
+            "stars": 1113,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1215,12 +1923,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Upscale an image by a factor of 4, while generating photo-realistic details.",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-image-resolution-enhancer/",
             "id": 176559063,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:30:28Z",
+            "open_issues": 18,
             "owner": "IBM",
             "repo": "MAX-Image-Resolution-Enhancer",
-            "stars": 1041
+            "stars": 1041,
+            "topics": [
+              "ai",
+              "codait",
+              "computer-vision",
+              "docker-image",
+              "ibm",
+              "machine-learning",
+              "machine-learning-models",
+              "neural-network",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1231,12 +1954,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":bar_chart: Sample Nodejs Application for the IBM Watson Personality Insights Service",
+            "homepage": "https://personality-insights-demo.ng.bluemix.net/",
             "id": 30994108,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-23T18:55:29Z",
+            "open_issues": 7,
             "owner": "watson-developer-cloud",
             "repo": "personality-insights-nodejs",
-            "stars": 555
+            "stars": 555,
+            "topics": [
+              "personality-insights"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1247,12 +1977,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Classify images offline using Watson Visual Recognition and Core ML",
+            "homepage": null,
             "id": 124135124,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2019-09-10T16:42:49Z",
+            "open_issues": 5,
             "owner": "watson-developer-cloud",
             "repo": "visual-recognition-coreml",
-            "stars": 487
+            "stars": 487,
+            "topics": [
+              "core-ml",
+              "visual-recognition",
+              "watson"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1263,12 +2002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple sample application demonstrating the Watson Assistant api.",
+            "homepage": "https://assistant-simple.ng.bluemix.net/",
             "id": 59693329,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-04T21:37:44Z",
+            "open_issues": 22,
             "owner": "watson-developer-cloud",
             "repo": "assistant-simple",
-            "stars": 478
+            "stars": 478,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1279,12 +2023,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sample Node.js Application for the IBM Tone Analyzer Service",
+            "homepage": "https://tone-analyzer-demo.ng.bluemix.net/",
             "id": 39128538,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-23T18:51:53Z",
+            "open_issues": 18,
             "owner": "watson-developer-cloud",
             "repo": "tone-analyzer-nodejs",
-            "stars": 452
+            "stars": 452,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1295,12 +2044,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: this repo is no longer actively maintained",
+            "homepage": null,
             "id": 30329872,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-21T16:56:59Z",
+            "open_issues": 0,
             "owner": "germanattanasio",
             "repo": "visual-recognition-nodejs",
-            "stars": 357
+            "stars": 357,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1311,12 +2065,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Localize and identify multiple objects in a single image.",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-object-detector/",
             "id": 124604154,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T19:57:46Z",
+            "open_issues": 8,
             "owner": "IBM",
             "repo": "MAX-Object-Detector",
-            "stars": 293
+            "stars": 293,
+            "topics": [
+              "coco-dataset",
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models",
+              "tensorflow-model"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1327,12 +2092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for using the IBM Watson Speech to Text and Text to Speech services in web browsers.",
+            "homepage": "https://watson-speech.mybluemix.net/",
             "id": 49778183,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-02-10T09:36:16Z",
+            "open_issues": 12,
             "owner": "watson-developer-cloud",
             "repo": "speech-javascript-sdk",
-            "stars": 263
+            "stars": 263,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1343,12 +2113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A middleware to connect Watson Conversation Service to different chat channels using Botkit",
+            "homepage": "https://www.npmjs.com/package/botkit-middleware-watson",
             "id": 70256607,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-07T04:17:10Z",
+            "open_issues": 27,
             "owner": "watson-developer-cloud",
             "repo": "botkit-middleware",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1359,12 +2134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node-RED labs on the use of the Watson Developer Cloud services",
+            "homepage": null,
             "id": 42580903,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-05-30T16:47:16Z",
+            "open_issues": 17,
             "owner": "watson-developer-cloud",
             "repo": "node-red-labs",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1375,12 +2155,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An Android ChatBot powered by Watson Services - Assistant, Speech-to-Text  and Text-to-Speech on IBM Cloud.",
+            "homepage": "https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-watson-chatbot",
             "id": 79082715,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-17T12:45:52Z",
+            "open_issues": 0,
             "owner": "IBM-Cloud",
             "repo": "chatbot-watson-android",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "android",
+              "android-studio",
+              "chatbot",
+              "conversation",
+              "conversation-service",
+              "dialog",
+              "entity",
+              "ibm-cloud",
+              "ibm-cloud-solutions",
+              "ibm-watson",
+              "ibm-watson-services",
+              "intent",
+              "java",
+              "speaker-diarization",
+              "speaker-recognition",
+              "speech",
+              "watson",
+              "watson-services",
+              "workspace"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1391,12 +2196,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identify sounds in short audio clips",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-audio-classifier/",
             "id": 140601373,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:06:34Z",
+            "open_issues": 7,
             "owner": "IBM",
             "repo": "MAX-Audio-Classifier",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "audio-classification",
+              "docker-image",
+              "keras-tensorflow",
+              "machine-learning",
+              "machine-learning-models"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1407,12 +2223,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deprecated: this demo will receive no further updates",
+            "homepage": null,
             "id": 35494176,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-21T18:15:37Z",
+            "open_issues": 9,
             "owner": "watson-developer-cloud",
             "repo": "natural-language-classifier-nodejs",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1423,12 +2244,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":star2:The Celebrity Match application uses the Watson Personality insights Service and Twitter data to identify celebrities on Twitter whose tweets are conceptually closest to yours.",
+            "homepage": null,
             "id": 27882150,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-26T17:58:13Z",
+            "open_issues": 1,
             "owner": "germanattanasio",
             "repo": "your-celebrity-match",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1439,12 +2265,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":new: Demo code for the Natural Language Understanding Service.",
+            "homepage": "http://natural-language-understanding-demo.mybluemix.net/",
             "id": 83071218,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-04T21:36:51Z",
+            "open_issues": 28,
             "owner": "watson-developer-cloud",
             "repo": "natural-language-understanding-nodejs",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "ibm-bluemix",
+              "ibm-watson",
+              "natural-language-understanding",
+              "watson-services"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1455,12 +2291,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IBM Code Model Asset Exchange: Show and Tell Image Caption Generator",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-image-caption-generator/",
             "id": 124603521,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T19:57:22Z",
+            "open_issues": 8,
             "owner": "IBM",
             "repo": "MAX-Image-Caption-Generator",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "coco-dataset",
+              "docker-image",
+              "machine-learning",
+              "machine-lerning-models"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1471,12 +2317,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of nodes for the IBM Watson services",
+            "homepage": null,
             "id": 55415107,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-28T08:38:35Z",
+            "open_issues": 38,
             "owner": "watson-developer-cloud",
             "repo": "node-red-node-watson",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "node-red",
+              "watson"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1487,12 +2341,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converts spoken words into text form.",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-speech-to-text-converter/",
             "id": 178269980,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:32:07Z",
+            "open_issues": 8,
             "owner": "IBM",
             "repo": "MAX-Speech-to-Text-Converter",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "ai",
+              "codait",
+              "docker-image",
+              "ibm",
+              "machine-learning",
+              "natural-language-processing",
+              "speech-recognition",
+              "speech-to-text"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1503,12 +2371,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is a deprecated Watson Discovery Service Demo. A link to the newly supported demo is below",
+            "homepage": "https://www.ibm.com/demos/live/watson-discovery/self-service",
             "id": 80665747,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-11-24T15:54:00Z",
+            "open_issues": 0,
             "owner": "watson-developer-cloud",
             "repo": "discovery-nodejs",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "deprecated-repo"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1519,12 +2394,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Predict hourly weather features given historical data for a specific location",
+            "homepage": null,
             "id": 148203076,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:11:29Z",
+            "open_issues": 5,
             "owner": "IBM",
             "repo": "MAX-Weather-Forecaster",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "docker-image",
+              "lstm-neural-network",
+              "machine-learning",
+              "machine-learning-models",
+              "weather-forecast"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1535,12 +2421,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect humans in an image and estimate the pose for each person",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-human-pose-estimator/",
             "id": 160571201,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:18:18Z",
+            "open_issues": 8,
             "owner": "IBM",
             "repo": "MAX-Human-Pose-Estimator",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "coco",
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models",
+              "openpose",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1551,12 +2449,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate embedding vectors from audio files",
+            "homepage": null,
             "id": 140600933,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:05:56Z",
+            "open_issues": 5,
             "owner": "IBM",
             "repo": "MAX-Audio-Embedding-Generator",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1567,12 +2475,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect the sentiment captured in short pieces of text",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-text-sentiment-classifier/",
             "id": 176559065,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:30:41Z",
+            "open_issues": 8,
             "owner": "IBM",
             "repo": "MAX-Text-Sentiment-Classifier",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "docker-image",
+              "ibm",
+              "machine-learning",
+              "machine-learning-models",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "nlp",
+              "sentiment",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1583,12 +2506,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect 6 types of toxicity in user comments.",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-toxic-comment-classifier/",
             "id": 188468796,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:37:29Z",
+            "open_issues": 3,
             "owner": "IBM",
             "repo": "MAX-Toxic-Comment-Classifier",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "comments",
+              "docker-image",
+              "ibm",
+              "machine-learning",
+              "machine-learning-models",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "nlp",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1599,12 +2537,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAX Optical Character Recognition",
+            "homepage": null,
             "id": 218193312,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:57:02Z",
+            "open_issues": 6,
             "owner": "IBM",
             "repo": "MAX-OCR",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "docker-image",
+              "machine-learning",
+              "tesseract-ocr-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1615,12 +2562,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate a new image that mixes the content of a source image with the style of another image.",
+            "homepage": "https://developer.ibm.com/code/exchanges/models/",
             "id": 124602848,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T19:56:18Z",
+            "open_issues": 6,
             "owner": "IBM",
             "repo": "MAX-Fast-Neural-Style-Transfer",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1631,12 +2588,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: this repo is no longer actively maintained",
+            "homepage": null,
             "id": 93529900,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-16T20:35:33Z",
+            "open_issues": 1,
             "owner": "watson-developer-cloud",
             "repo": "simple-chat-swift",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "swift",
+              "watson",
+              "watson-swift-sdk"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1647,12 +2613,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image classifier for physical places/locations, based on the Places365-CNN Model",
+            "homepage": null,
             "id": 124603210,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T19:56:56Z",
+            "open_issues": 4,
             "owner": "IBM",
             "repo": "MAX-Scene-Classifier",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models",
+              "pytorch",
+              "recognizes-images"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1663,12 +2640,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: this repo is no longer actively maintained",
+            "homepage": null,
             "id": 70281872,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2019-07-15T13:29:24Z",
+            "open_issues": 0,
             "owner": "watson-developer-cloud",
             "repo": "food-coach",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1679,12 +2661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Estimate the phonetic distance between Chinese words and get similar sounding candidate words.",
+            "homepage": null,
             "id": 189083526,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:37:42Z",
+            "open_issues": 5,
             "owner": "IBM",
             "repo": "MAX-Chinese-Phonetic-Similarity-Estimator",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1695,12 +2682,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Answer questions on a given corpus of text.",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-question-answering",
             "id": 207696489,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:53:00Z",
+            "open_issues": 7,
             "owner": "IBM",
             "repo": "MAX-Question-Answering",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models",
+              "natural-language-processing",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1711,12 +2709,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identify objects in an image, additionally assigning each pixel of the image to a particular object",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-image-segmenter/",
             "id": 140601269,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:06:21Z",
+            "open_issues": 11,
             "owner": "IBM",
             "repo": "MAX-Image-Segmenter",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1727,12 +2735,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identify objects in images using a third-generation deep residual network.",
+            "homepage": "https://developer.ibm.com/code/exchanges/models/",
             "id": 124603311,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T19:57:09Z",
+            "open_issues": 5,
             "owner": "IBM",
             "repo": "MAX-Inception-ResNet-v2",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "docker-image",
+              "imagenet-classifier",
+              "keras",
+              "machine-learning",
+              "machine-learning-models"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1743,12 +2762,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate a summarized description of a body of text",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-text-summarizer/",
             "id": 195900178,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:42:12Z",
+            "open_issues": 4,
             "owner": "IBM",
             "repo": "MAX-Text-Summarizer",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "deep-neural-networks",
+              "docker-image",
+              "machine-learning",
+              "tensorflow-models"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1759,12 +2788,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds color to black and white images.",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-image-colorizer/",
             "id": 140601508,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:06:48Z",
+            "open_issues": 5,
             "owner": "IBM",
             "repo": "MAX-Image-Colorizer",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "coco-dataset",
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models",
+              "pix2pix",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1775,12 +2816,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate English-language text similar to the news articles in the One Billion Words data set.",
+            "homepage": "https://developer.ibm.com/code/exchanges/models/",
             "id": 124603090,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T19:56:44Z",
+            "open_issues": 5,
             "owner": "IBM",
             "repo": "MAX-News-Text-Generator",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1791,12 +2841,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect whether a mitosis exists in an image of breast cancer tumor cells",
+            "homepage": null,
             "id": 140601107,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:06:09Z",
+            "open_issues": 6,
             "owner": "IBM",
             "repo": "MAX-Breast-Cancer-Mitosis-Detector",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "docker-image",
+              "keras",
+              "machine-learning",
+              "machine-learning-models"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1807,12 +2867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Locate and tag named entities in text ",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-named-entity-tagger/",
             "id": 148203203,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:11:42Z",
+            "open_issues": 6,
             "owner": "IBM",
             "repo": "MAX-Named-Entity-Tagger",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1823,12 +2888,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Categorize sports videos according to which sport the video depicts.",
+            "homepage": "https://developer.ibm.com/code/exchanges/models/",
             "id": 124603621,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T19:57:34Z",
+            "open_issues": 7,
             "owner": "IBM",
             "repo": "MAX-Sports-Video-Classifier",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1839,12 +2914,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate short audio clips of speech commands and lo-fi instrumental samples",
+            "homepage": null,
             "id": 148203483,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:11:56Z",
+            "open_issues": 5,
             "owner": "IBM",
             "repo": "MAX-Audio-Sample-Generator",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "audio",
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1855,12 +2941,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate English-language text similar to the text in the Yelp® review data set.",
+            "homepage": "https://developer.ibm.com/exchanges/models/all/max-review-text-generator/",
             "id": 125113533,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T19:58:18Z",
+            "open_issues": 4,
             "owner": "IBM",
             "repo": "MAX-Review-Text-Generator",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "docker-image",
+              "keras",
+              "machine-learning",
+              "machine-learning-models"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1871,12 +2967,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identify objects in images using a first-generation deep residual network.",
+            "homepage": "https://developer.ibm.com/code/exchanges/models/",
             "id": 124602999,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T19:56:31Z",
+            "open_issues": 5,
             "owner": "IBM",
             "repo": "MAX-ResNet-50",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "docker-image",
+              "keras",
+              "machine-learning",
+              "machine-learning-models"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1887,12 +2993,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a base image for IBM Model Asset Exchange",
+            "homepage": null,
             "id": 148833156,
             "language": "Dockerfile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:15:48Z",
+            "open_issues": 10,
             "owner": "IBM",
             "repo": "MAX-Base",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1903,12 +3014,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Generate embedding vectors from text files",
+            "homepage": null,
             "id": 140601608,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-04-07T14:17:15Z",
+            "open_issues": 2,
             "owner": "IBM",
             "repo": "MAX-Word-Embedding-Generator",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1919,12 +3035,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Identify nuclei in a microscopy image and assign each pixel of the image to a particular nucleus",
+            "homepage": "https://developer.ibm.com/exchanges/models/",
             "id": 176559069,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-22T07:53:45Z",
+            "open_issues": 4,
             "owner": "IBM",
             "repo": "MAX-Nucleus-Segmenter",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "deep-learning",
+              "docker-image",
+              "machine-learning",
+              "machine-learning-models",
+              "medical-image-analysis",
+              "object-detection",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1935,12 +3064,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cognitive capabilities with iOS Core ML and Watson Visual Recognition",
+            "homepage": null,
             "id": 160128061,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2019-09-02T03:03:17Z",
+            "open_issues": 0,
             "owner": "victorshinya",
             "repo": "with-watson",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ibm",
+              "ibm-cloud",
+              "ibm-watson",
+              "ios",
+              "swift",
+              "visual-recognition",
+              "watson-developer-cloud",
+              "watson-visual-recognition"
+            ]
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
         },
@@ -1956,12 +3099,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":comet: Node.js library to access IBM Watson services.",
+                "homepage": "https://www.npmjs.com/package/ibm-watson",
                 "id": 27840307,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-22T19:59:02Z",
+                "open_issues": 12,
                 "owner": "watson-developer-cloud",
                 "repo": "node-sdk",
-                "stars": 1473
+                "stars": 1473,
+                "topics": [
+                  "conversation-service",
+                  "hacktoberfest",
+                  "ibm-watson-services",
+                  "javascript",
+                  "language-translation",
+                  "natural-language",
+                  "typescript",
+                  "watson"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -1972,12 +3129,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":snake: Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud",
+                "homepage": "https://pypi.org/project/ibm-watson/",
                 "id": 42750248,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-26T19:34:45Z",
+                "open_issues": 5,
                 "owner": "watson-developer-cloud",
                 "repo": "python-sdk",
-                "stars": 1449
+                "stars": 1449,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -1988,12 +3152,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":iphone: The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications.",
+                "homepage": "https://watson-developer-cloud.github.io/swift-sdk/",
                 "id": 42934262,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-22T19:18:35Z",
+                "open_issues": 4,
                 "owner": "watson-developer-cloud",
                 "repo": "swift-sdk",
-                "stars": 869
+                "stars": 869,
+                "topics": [
+                  "hacktoberfest",
+                  "ibm-watson-services",
+                  "ibm-watson-speech",
+                  "swift-4"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -2004,12 +3178,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":1st_place_medal: Java SDK to use the IBM Watson services.",
+                "homepage": "http://watson-developer-cloud.github.io/java-sdk/",
                 "id": 34824538,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-14T21:14:44Z",
+                "open_issues": 6,
                 "owner": "watson-developer-cloud",
                 "repo": "java-sdk",
-                "stars": 597
+                "stars": 597,
+                "topics": [
+                  "bluemix",
+                  "gradle",
+                  "hacktoberfest",
+                  "iam",
+                  "ibm-cloud",
+                  "ibm-watson-services",
+                  "java",
+                  "java-sdk",
+                  "sdk",
+                  "watson-apis",
+                  "watson-services"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -2020,12 +3211,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":video_game: Unity SDK to use the IBM Watson services.",
+                "homepage": null,
                 "id": 48125477,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-22T19:21:21Z",
+                "open_issues": 4,
                 "owner": "watson-developer-cloud",
                 "repo": "unity-sdk",
-                "stars": 565
+                "stars": 565,
+                "topics": [
+                  "artificial-intelligence",
+                  "bluemix",
+                  "cognitive",
+                  "hacktoberfest",
+                  "ibm-cloud",
+                  "unity-sdk",
+                  "unity3d",
+                  "vr",
+                  "watson",
+                  "watson-sdk",
+                  "watson-services"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -2036,12 +3244,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":high_brightness: Android SDK to use the IBM Watson services.",
+                "homepage": "http://watson-developer-cloud.github.io/android-sdk/",
                 "id": 55543847,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-04T18:34:40Z",
+                "open_issues": 11,
                 "owner": "watson-developer-cloud",
                 "repo": "android-sdk",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "aar",
+                  "android",
+                  "android-sdk",
+                  "ibm-cloud",
+                  "watson-services"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -2052,12 +3271,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":new::new::new:.NET Standard library to access Watson Services.",
+                "homepage": "https://www.nuget.org/profiles/ibm-watson",
                 "id": 76460704,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-19T17:25:40Z",
+                "open_issues": 0,
                 "owner": "watson-developer-cloud",
                 "repo": "dotnet-standard-sdk",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "dotnet-core",
+                  "hacktoberfest",
+                  "ibm-watson"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -2068,12 +3296,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":mouse: go SDK for the IBM Watson services.",
+                "homepage": null,
                 "id": 152775148,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-22T19:19:26Z",
+                "open_issues": 3,
                 "owner": "watson-developer-cloud",
                 "repo": "go-sdk",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -2084,12 +3319,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":diamonds: Ruby SDK to use the IBM Watson services.",
+                "homepage": null,
                 "id": 140028155,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-22T19:20:19Z",
+                "open_issues": 1,
                 "owner": "watson-developer-cloud",
                 "repo": "ruby-sdk",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "hacktoberfest",
+                  "ibm-watson",
+                  "ibm-watson-services",
+                  "ruby",
+                  "ruby-gem",
+                  "rubygem",
+                  "watson"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -2100,12 +3348,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Salesforce library for communicating with the IBM Watson REST APIs",
+                "homepage": null,
                 "id": 109404898,
                 "language": "Apex",
+                "license": "MIT",
                 "last_commit": "2020-07-20T16:15:45Z",
+                "open_issues": 3,
                 "owner": "watson-developer-cloud",
                 "repo": "salesforce-sdk",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "salesforce",
+                  "watson",
+                  "watson-services"
+                ]
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             },
@@ -2116,12 +3373,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":new: SDK for using Watson Services on IBM Cloud Functions (based on Apache Openwhisk) - DEPRECATED",
+                "homepage": null,
                 "id": 118832056,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-02-14T15:34:45Z",
+                "open_issues": 0,
                 "owner": "watson-developer-cloud",
                 "repo": "openwhisk-sdk",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:41:50.781Z"
             }
@@ -2132,15 +3394,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:41:50.781Z",
+    "last_updated": "2026-08-29T04:56:49.601Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.",
+      "homepage": null,
       "id": 163752109,
       "language": "HTML",
+      "license": "CC0-1.0",
       "last_commit": "2021-07-05T07:57:27Z",
+      "open_issues": 1,
       "owner": "victorshinya",
       "repo": "awesome-ibmcloud",
-      "stars": 109
+      "stars": 109,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bluemix",
+        "cloud-platform",
+        "ibm-bluemix",
+        "ibm-cloud"
+      ]
     },
     "original_repository_sha": "c7bbfeed13dabb5e834bdf1994d0318f485dd7c2",
     "enhanced_repository": "enhansome/enhansome-ibmcloud",
