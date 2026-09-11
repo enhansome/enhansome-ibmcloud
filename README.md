@@ -27,18 +27,18 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,441 | 🐛 1,039 | 🌐 JavaScript | 📅 2026-09-10 - A design system built by IBM.
-* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,906 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-10 - Svelte implementation of the Carbon Design System.
-* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,108 | 🐛 84 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
+* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,446 | 🐛 1,031 | 🌐 JavaScript | 📅 2026-09-11 - A design system built by IBM.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,906 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-11 - Svelte implementation of the Carbon Design System.
+* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,108 | 🐛 88 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) ⚠️ Archived - React components for the Carbon Design System.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) ⭐ 1,048 | 🐛 272 | 🌐 HTML | 📅 2026-09-08 - 📊 📈 Reusable charts implemented using D3 & typescript.
 * [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) ⭐ 651 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-10 - Vue implementation of the Carbon Design System.
-* [carbon-components-angular](https://github.com/IBM/carbon-components-angular) ⭐ 566 | 🐛 245 | 🌐 TypeScript | 📅 2026-09-10 - An Angular implementation of the Carbon Design System for IBM.
+* [carbon-components-angular](https://github.com/IBM/carbon-components-angular) ⭐ 566 | 🐛 247 | 🌐 TypeScript | 📅 2026-09-11 - An Angular implementation of the Carbon Design System for IBM.
 * [carbon-web-components](https://github.com/carbon-design-system/carbon-web-components) ⚠️ Archived - Carbon Design System variant on top of Web Components.
 * [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) ⭐ 459 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27 - Svelte components for icons in digital and software products using the Carbon Design System.
-* [gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) ⭐ 357 | 🐛 67 | 🌐 MDX | 📅 2026-09-09 - A Carbon inspired Gatsby theme.
+* [gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) ⭐ 357 | 🐛 68 | 🌐 MDX | 📅 2026-09-11 - A Carbon inspired Gatsby theme.
 * [carbon-website](https://github.com/carbon-design-system/carbon-website) ⭐ 330 | 🐛 127 | 🌐 MDX | 📅 2026-09-09 - The website for the Carbon Design System.
-* [ibm-dotcom-library](https://github.com/carbon-design-system/ibm-dotcom-library) ⭐ 294 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-09 - IBM.com library based on the Carbon Design System for IBM.
+* [ibm-dotcom-library](https://github.com/carbon-design-system/ibm-dotcom-library) ⭐ 294 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-11 - IBM.com library based on the Carbon Design System for IBM.
 * [carbon-tutorial](https://github.com/carbon-design-system/carbon-tutorial) ⚠️ Archived - An app for the Carbon Design System tutorial.
 * [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react) ⭐ 104 | 🐛 247 | 🌐 JavaScript | 📅 2026-09-01 - This library contains React components shared between all IBM IoT products to unify our look and feel. These widgets are usually based on the carbon-components-react widgets.
 * [carbon-language-website](https://github.com/carbon-design-system/design-language-website) ⭐ 100 | 🐛 1 | 🌐 CSS | 📅 2026-09-10 - IBM Design Language website.
@@ -51,7 +51,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [gatsby-starter-carbon-theme](https://github.com/carbon-design-system/gatsby-starter-carbon-theme) ⭐ 18 | 🐛 8 | 🌐 MDX | 📅 2024-10-22 - A Gatsby starter demonstrating the Gatsby Carbon theme.
 * [carbon-icons-angular](https://github.com/carbon-design-system/carbon-icons-angular) ⭐ 16 | 🐛 67 | 🌐 JavaScript | 📅 2023-07-12 - Carbon icons, in Angular!
 * [carbon-sandbox](https://github.com/carbon-design-system/carbon-sandbox) ⭐ 13 | 🐛 19 | 🌐 CSS | 📅 2024-05-23 - A theme playground for Carbon Components.
-* [carbon-addons-angular](https://github.com/IBM/carbon-addons-angular) ⭐ 4 | 🐛 5 | 🌐 TypeScript | 📅 2025-09-17 - Common Addons for Carbon Angular projects.
+* [carbon-addons-angular](https://github.com/IBM/carbon-addons-angular) ⭐ 4 | 🐛 6 | 🌐 TypeScript | 📅 2025-09-17 - Common Addons for Carbon Angular projects.
 * [carbon-badges](https://github.com/carbon-design-system/carbon-badges) ⚠️ Archived - A site to apply for Carbon badges.
 
 ## Command Line Tools
@@ -59,7 +59,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 *Command Line Tools for MacOS, Windows and Linux.*
 
 * [The Kui Framework for Graphical Terminals](https://github.com/IBM/kui) ⚠️ Archived - A hybrid command-line/UI development experience for cloud-native development.
-* [Cloud Foundry CLI](https://github.com/cloudfoundry/cli) ⭐ 1,934 | 🐛 85 | 🌐 Go | 📅 2026-09-09 - The official command line client for Cloud Foundry.
+* [Cloud Foundry CLI](https://github.com/cloudfoundry/cli) ⭐ 1,934 | 🐛 86 | 🌐 Go | 📅 2026-09-09 - The official command line client for Cloud Foundry.
 * [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) ⭐ 159 | 🐛 30 | 📅 2026-08-28 - This is the command line client for IBM Cloud.
 * [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) - A \**unoffical*- Collection of different Docker Containers to interface with IBM Cloud.
 * [Universal Command Line Interface](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
@@ -69,7 +69,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Deploy and manage your applications with Softlayer.*
 
-* [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) ⭐ 361 | 🐛 807 | 🌐 Go | 📅 2026-09-10 - Terraform IBM Cloud provider.
+* [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) ⭐ 361 | 🐛 805 | 🌐 Go | 📅 2026-09-11 - Terraform IBM Cloud provider.
 * [cp4d-deployment](https://github.com/IBM/cp4d-deployment) ⭐ 49 | 🐛 12 | 📅 2026-09-10 - These terraform scripts are developed to deploy CloudPakforData on the public cloud.
 * [ibm-spectrum-scale-cloud-install](https://github.com/IBM/ibm-spectrum-scale-cloud-install) ⭐ 32 | 🐛 5 | 🌐 HCL | 📅 2026-09-10 - Cloud Resource Provisioning framework for IBM Spectrum Scale.
 * [vision-terraform](https://github.com/IBM/vision-terraform) ⚠️ Archived - IBM Visual Insights sample terraform templates for deployment in IBM Cloud (formerly IBM PowerAI Vision).
@@ -81,9 +81,9 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 *Deploy and manage your applications with Cloud Foundry.*
 
 * [kitura](https://github.com/IBM-Swift/Kitura) ⭐ 7,578 | 🐛 70 | 🌐 Swift | 📅 2026-05-19 - A Swift web framework and HTTP server.
-* [charts](https://github.com/IBM/charts) ⭐ 311 | 🐛 4 | 🌐 Go Template | 📅 2026-09-09 - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
+* [charts](https://github.com/IBM/charts) ⭐ 311 | 🐛 4 | 🌐 Go Template | 📅 2026-09-11 - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 * [swift-ubuntu-docker](https://github.com/IBM-Swift/swift-ubuntu-docker) ⭐ 151 | 🐛 0 | 🌐 Vim script | 📅 2019-07-16 - Docker image packaged with the Swift binaries.
-* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 148 | 🐛 7 | 🌐 Standard ML | 📅 2026-09-10 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
+* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 148 | 🐛 7 | 🌐 Standard ML | 📅 2026-09-11 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
 * [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard) ⚠️ Archived - The Logistics Wizard is an end-to-end, smart supply chain management solution.
 * [swifty-request](https://github.com/IBM-Swift/SwiftyRequest) ⭐ 110 | 🐛 13 | 🌐 Swift | 📅 2024-11-09 - SwiftyRequest is an HTTP networking library built for Swift.
 * [kitura-net](https://github.com/IBM-Swift/Kitura-net) ⭐ 104 | 🐛 11 | 🌐 Swift | 📅 2021-09-13 - Kitura networking.
@@ -131,7 +131,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 *SDKs and code patterns with Watson services.*
 
 * [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) ⭐ 1,112 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-07 - 🎤 Sample Node.js Application for the IBM Watson Speech to Text Service.
-* [max-image-resolution-enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) ⭐ 1,041 | 🐛 17 | 🌐 Python | 📅 2025-09-17 - Upscale an image by a factor of 4, while generating photo-realistic details.
+* [max-image-resolution-enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) ⭐ 1,042 | 🐛 17 | 🌐 Python | 📅 2025-09-17 - Upscale an image by a factor of 4, while generating photo-realistic details.
 * [personality-insights-nodejs](https://github.com/watson-developer-cloud/personality-insights-nodejs) ⚠️ Archived - 📊 Sample Nodejs Application for the IBM Watson Personality Insights Service.
 * [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) ⚠️ Archived - Classify images offline using Watson Visual Recognition and Core ML.
 * [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) ⭐ 478 | 🐛 22 | 🌐 JavaScript | 📅 2023-01-04 - A simple sample application demonstrating the Watson Assistant API.
@@ -153,7 +153,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [max-weather-forecaster](https://github.com/IBM/MAX-Weather-Forecaster) ⭐ 71 | 🐛 6 | 🌐 Python | 📅 2025-09-17 - Predict hourly weather features given historical data for a specific location.
 * [max-human-pose-estimator](https://github.com/IBM/MAX-Human-Pose-Estimator) ⭐ 64 | 🐛 8 | 🌐 C++ | 📅 2025-09-17 - Detect humans in an image and estimate the pose for each person.
 * [max-audio-embedding-generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) ⭐ 58 | 🐛 6 | 🌐 Python | 📅 2025-09-17 - Generate embedding vectors from audio files.
-* [max-text-sentiment-classifier](https://github.com/IBM/MAX-Text-Sentiment-Classifier) ⭐ 56 | 🐛 8 | 🌐 Python | 📅 2025-09-17 - Detect the sentiment captured in short pieces of text.
+* [max-text-sentiment-classifier](https://github.com/IBM/MAX-Text-Sentiment-Classifier) ⭐ 56 | 🐛 9 | 🌐 Python | 📅 2025-09-17 - Detect the sentiment captured in short pieces of text.
 * [max-toxic-comment-classifier](https://github.com/IBM/MAX-Toxic-Comment-Classifier) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2025-09-17 - Detect 6 types of toxicity in user comments.
 * [max-ocr](https://github.com/IBM/MAX-OCR) ⭐ 51 | 🐛 7 | 🌐 Python | 📅 2025-09-17 - MAX Optical Character Recognition.
 * [max-fast-neural-style-transfer](https://github.com/IBM/MAX-Fast-Neural-Style-Transfer) ⭐ 50 | 🐛 6 | 🌐 Python | 📅 2025-09-17 - Generate a new image that mixes the content of a source image with the style of another image.
@@ -343,4 +343,4 @@ Feel free to contact me for any discussion, question, or comment. You can find o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
