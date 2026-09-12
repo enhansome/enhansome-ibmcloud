@@ -27,12 +27,12 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,446 | 🐛 1,031 | 🌐 JavaScript | 📅 2026-09-11 - A design system built by IBM.
-* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,906 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-11 - Svelte implementation of the Carbon Design System.
-* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,108 | 🐛 88 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
+* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,452 | 🐛 1,033 | 🌐 JavaScript | 📅 2026-09-12 - A design system built by IBM.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,906 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-12 - Svelte implementation of the Carbon Design System.
+* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,108 | 🐛 87 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) ⚠️ Archived - React components for the Carbon Design System.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) ⭐ 1,048 | 🐛 272 | 🌐 HTML | 📅 2026-09-08 - 📊 📈 Reusable charts implemented using D3 & typescript.
-* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) ⭐ 651 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-10 - Vue implementation of the Carbon Design System.
+* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) ⭐ 651 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-12 - Vue implementation of the Carbon Design System.
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) ⭐ 566 | 🐛 247 | 🌐 TypeScript | 📅 2026-09-11 - An Angular implementation of the Carbon Design System for IBM.
 * [carbon-web-components](https://github.com/carbon-design-system/carbon-web-components) ⚠️ Archived - Carbon Design System variant on top of Web Components.
 * [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) ⭐ 459 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27 - Svelte components for icons in digital and software products using the Carbon Design System.
@@ -81,9 +81,9 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 *Deploy and manage your applications with Cloud Foundry.*
 
 * [kitura](https://github.com/IBM-Swift/Kitura) ⭐ 7,578 | 🐛 70 | 🌐 Swift | 📅 2026-05-19 - A Swift web framework and HTTP server.
-* [charts](https://github.com/IBM/charts) ⭐ 311 | 🐛 4 | 🌐 Go Template | 📅 2026-09-11 - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
+* [charts](https://github.com/IBM/charts) ⭐ 311 | 🐛 4 | 🌐 Go Template | 📅 2026-09-12 - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 * [swift-ubuntu-docker](https://github.com/IBM-Swift/swift-ubuntu-docker) ⭐ 151 | 🐛 0 | 🌐 Vim script | 📅 2019-07-16 - Docker image packaged with the Swift binaries.
-* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 148 | 🐛 7 | 🌐 Standard ML | 📅 2026-09-11 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
+* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 148 | 🐛 7 | 🌐 Standard ML | 📅 2026-09-12 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
 * [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard) ⚠️ Archived - The Logistics Wizard is an end-to-end, smart supply chain management solution.
 * [swifty-request](https://github.com/IBM-Swift/SwiftyRequest) ⭐ 110 | 🐛 13 | 🌐 Swift | 📅 2024-11-09 - SwiftyRequest is an HTTP networking library built for Swift.
 * [kitura-net](https://github.com/IBM-Swift/Kitura-net) ⭐ 104 | 🐛 11 | 🌐 Swift | 📅 2021-09-13 - Kitura networking.
@@ -148,7 +148,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [natural-language-understanding-nodejs](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) ⭐ 140 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-04 - 🆕 Demo code for the Natural Language Understanding Service.
 * [max-image-caption-generator](https://github.com/IBM/MAX-Image-Caption-Generator) ⭐ 83 | 🐛 8 | 🌐 Python | 📅 2025-09-17 - IBM Code Model Asset Exchange: Show and Tell Image Caption Generator.
 * [node-red-node-watson](https://github.com/watson-developer-cloud/node-red-node-watson) ⭐ 81 | 🐛 38 | 🌐 HTML | 📅 2022-03-28 - A collection of nodes for the IBM Watson services.
-* [max-speech-to-text-converter](https://github.com/IBM/MAX-speech-to-text-converter) ⭐ 78 | 🐛 9 | 🌐 Python | 📅 2025-09-17 - Converts spoken words into text form.
+* [max-speech-to-text-converter](https://github.com/IBM/MAX-speech-to-text-converter) ⭐ 78 | 🐛 8 | 🌐 Python | 📅 2025-09-17 - Converts spoken words into text form.
 * [discovery-nodejs](https://github.com/watson-developer-cloud/discovery-nodejs) ⚠️ Archived - This is the Watson Discovery Service Demo.
 * [max-weather-forecaster](https://github.com/IBM/MAX-Weather-Forecaster) ⭐ 71 | 🐛 6 | 🌐 Python | 📅 2025-09-17 - Predict hourly weather features given historical data for a specific location.
 * [max-human-pose-estimator](https://github.com/IBM/MAX-Human-Pose-Estimator) ⭐ 64 | 🐛 8 | 🌐 C++ | 📅 2025-09-17 - Detect humans in an image and estimate the pose for each person.
@@ -161,10 +161,10 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [max-scene-classifier](https://github.com/IBM/MAX-Scene-Classifier) ⭐ 42 | 🐛 4 | 🌐 Python | 📅 2025-09-17 - Image classifier for physical places/locations, based on the Places365-CNN Model.
 * [food-coach](https://github.com/watson-developer-cloud/food-coach) ⚠️ Archived - A simple sample web application demonstrating the integration of Watson Tone Analyzer into Watson Assistant.
 * [max-chinese-phonetic-similarity-estimator](https://github.com/IBM/MAX-Chinese-Phonetic-Similarity-Estimator) ⭐ 38 | 🐛 6 | 🌐 Python | 📅 2025-09-17 - Estimate the phonetic distance between Chinese words and get similar sounding candidate words.
-* [max-question-answering](https://github.com/IBM/Max-Question-Answering) ⭐ 32 | 🐛 7 | 🌐 Python | 📅 2025-09-17 - Answer questions on a given corpus of text.
+* [max-question-answering](https://github.com/IBM/Max-Question-Answering) ⭐ 32 | 🐛 8 | 🌐 Python | 📅 2025-09-17 - Answer questions on a given corpus of text.
 * [max-image-segmenter](https://github.com/IBM/MAX-Image-Segmenter) ⭐ 31 | 🐛 12 | 🌐 Python | 📅 2025-09-17 - Identify objects in an image, additionally assigning each pixel of the image to a particular object.
 * [max-inception-resnet-v2](https://github.com/IBM/MAX-Inception-ResNet-v2) ⭐ 27 | 🐛 6 | 🌐 Python | 📅 2025-09-17 - Identify objects in images using a third-generation deep residual network.
-* [max-text-summarizer](https://github.com/IBM/MAX-Text-Summarizer) ⭐ 27 | 🐛 4 | 🌐 Python | 📅 2025-09-17 - Generate a summarized description of a body of text.
+* [max-text-summarizer](https://github.com/IBM/MAX-Text-Summarizer) ⭐ 27 | 🐛 5 | 🌐 Python | 📅 2025-09-17 - Generate a summarized description of a body of text.
 * [max-image-colorizer](https://github.com/IBM/MAX-Image-Colorizer) ⭐ 26 | 🐛 6 | 🌐 Python | 📅 2025-09-17 - Adds color to black and white images.
 * [max-news-text-generator](https://github.com/IBM/MAX-News-Text-Generator) ⭐ 26 | 🐛 5 | 🌐 Python | 📅 2025-09-17 - Generate English-language text similar to the news articles in the One Billion Words data set.
 * [max-breast-cancer-mitosis-detector](https://github.com/IBM/MAX-Breast-Cancer-Mitosis-Detector) ⭐ 25 | 🐛 7 | 🌐 Python | 📅 2025-09-17 - Detect whether a mitosis exists in an image of breast cancer tumor cells.
@@ -180,7 +180,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform.
 * [personality-insights-python](https://github.com/watson-developer-cloud/personality-insights-python) - Sample Python Application for the IBM Watson Personality Insights Service.
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
-  * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) ⭐ 1,473 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-06 - ☄️ Node.js library to access IBM Watson services.
+  * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) ⭐ 1,473 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-12 - ☄️ Node.js library to access IBM Watson services.
   * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) ⭐ 1,449 | 🐛 5 | 🌐 Python | 📅 2026-01-26 - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud.
   * [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) ⭐ 869 | 🐛 4 | 🌐 Swift | 📅 2025-04-22 - 📱 The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications.
   * [java-sdk](https://github.com/watson-developer-cloud/java-sdk) ⭐ 598 | 🐛 6 | 🌐 Java | 📅 2026-01-14 - 🥇 Java SDK to use the IBM Watson services.
@@ -343,4 +343,4 @@ Feel free to contact me for any discussion, question, or comment. You can find o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
