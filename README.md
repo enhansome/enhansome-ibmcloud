@@ -27,11 +27,11 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,495 | 🐛 1,079 | 🌐 JavaScript | 📅 2026-09-26 - A design system built by IBM.
-* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,909 | 🐛 112 | 🌐 TypeScript | 📅 2026-09-26 - Svelte implementation of the Carbon Design System.
+* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,497 | 🐛 1,085 | 🌐 JavaScript | 📅 2026-09-27 - A design system built by IBM.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,910 | 🐛 105 | 🌐 TypeScript | 📅 2026-09-26 - Svelte implementation of the Carbon Design System.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,108 | 🐛 88 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) ⚠️ Archived - React components for the Carbon Design System.
-* [carbon-charts](https://github.com/carbon-design-system/carbon-charts) ⭐ 1,049 | 🐛 274 | 🌐 HTML | 📅 2026-09-16 - 📊 📈 Reusable charts implemented using D3 & typescript.
+* [carbon-charts](https://github.com/carbon-design-system/carbon-charts) ⭐ 1,050 | 🐛 274 | 🌐 HTML | 📅 2026-09-16 - 📊 📈 Reusable charts implemented using D3 & typescript.
 * [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) ⭐ 649 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-12 - Vue implementation of the Carbon Design System.
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) ⭐ 568 | 🐛 247 | 🌐 TypeScript | 📅 2026-09-11 - An Angular implementation of the Carbon Design System for IBM.
 * [carbon-web-components](https://github.com/carbon-design-system/carbon-web-components) ⚠️ Archived - Carbon Design System variant on top of Web Components.
@@ -81,9 +81,9 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 *Deploy and manage your applications with Cloud Foundry.*
 
 * [kitura](https://github.com/IBM-Swift/Kitura) ⭐ 7,583 | 🐛 70 | 🌐 Swift | 📅 2026-05-19 - A Swift web framework and HTTP server.
-* [charts](https://github.com/IBM/charts) ⭐ 312 | 🐛 3 | 🌐 Go Template | 📅 2026-09-25 - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
+* [charts](https://github.com/IBM/charts) ⭐ 312 | 🐛 3 | 🌐 Go Template | 📅 2026-09-26 - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 * [swift-ubuntu-docker](https://github.com/IBM-Swift/swift-ubuntu-docker) ⭐ 151 | 🐛 0 | 🌐 Vim script | 📅 2019-07-16 - Docker image packaged with the Swift binaries.
-* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 147 | 🐛 7 | 🌐 Standard ML | 📅 2026-09-25 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
+* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 147 | 🐛 7 | 🌐 Standard ML | 📅 2026-09-26 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
 * [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard) ⚠️ Archived - The Logistics Wizard is an end-to-end, smart supply chain management solution.
 * [swifty-request](https://github.com/IBM-Swift/SwiftyRequest) ⭐ 110 | 🐛 13 | 🌐 Swift | 📅 2024-11-09 - SwiftyRequest is an HTTP networking library built for Swift.
 * [kitura-net](https://github.com/IBM-Swift/Kitura-net) ⭐ 104 | 🐛 11 | 🌐 Swift | 📅 2021-09-13 - Kitura networking.
@@ -180,7 +180,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform.
 * [personality-insights-python](https://github.com/watson-developer-cloud/personality-insights-python) - Sample Python Application for the IBM Watson Personality Insights Service.
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
-  * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) ⭐ 1,474 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-19 - ☄️ Node.js library to access IBM Watson services.
+  * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) ⭐ 1,474 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-27 - ☄️ Node.js library to access IBM Watson services.
   * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) ⭐ 1,449 | 🐛 5 | 🌐 Python | 📅 2026-01-26 - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud.
   * [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) ⭐ 869 | 🐛 4 | 🌐 Swift | 📅 2025-04-22 - 📱 The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications.
   * [java-sdk](https://github.com/watson-developer-cloud/java-sdk) ⭐ 598 | 🐛 6 | 🌐 Java | 📅 2026-01-14 - 🥇 Java SDK to use the IBM Watson services.
@@ -343,4 +343,4 @@ Feel free to contact me for any discussion, question, or comment. You can find o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
