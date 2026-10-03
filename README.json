@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T18:49:00Z",
-            "open_issues": 1077,
+            "open_issues": 1079,
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9514,
+            "stars": 9513,
             "topics": [
               "design-system",
               "hacktoberfest",
@@ -185,8 +185,8 @@
             "id": 143059442,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:44:10Z",
-            "open_issues": 253,
+            "last_commit": "2026-10-02T22:47:52Z",
+            "open_issues": 254,
             "owner": "carbon-design-system",
             "repo": "carbon-components-angular",
             "stars": 568,
@@ -325,7 +325,7 @@
             "id": 193129061,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:56:32Z",
+            "last_commit": "2026-10-02T21:11:10Z",
             "open_issues": 27,
             "owner": "carbon-design-system",
             "repo": "carbon-for-ibm-dotcom",
@@ -726,7 +726,7 @@
             "open_issues": 84,
             "owner": "cloudfoundry",
             "repo": "cli",
-            "stars": 1940,
+            "stars": 1939,
             "topics": [
               "cf-cli",
               "cli",
@@ -949,7 +949,7 @@
             "id": 94188121,
             "language": "Go Template",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T20:11:08Z",
+            "last_commit": "2026-10-02T21:38:24Z",
             "open_issues": 3,
             "owner": "IBM",
             "repo": "charts",
@@ -998,7 +998,7 @@
             "id": 153376495,
             "language": "Standard ML",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T15:19:53Z",
+            "last_commit": "2026-10-02T23:51:38Z",
             "open_issues": 7,
             "owner": "IBM",
             "repo": "cloud-pak",
@@ -1571,8 +1571,8 @@
                 "id": 8733172,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T15:30:52Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-02T22:37:18Z",
+                "open_issues": 10,
                 "owner": "cloudfoundry",
                 "repo": "nodejs-buildpack",
                 "stars": 174,
@@ -1621,7 +1621,7 @@
                 "open_issues": 15,
                 "owner": "cloudfoundry",
                 "repo": "python-buildpack",
-                "stars": 122,
+                "stars": 121,
                 "topics": [
                   "v2b"
                 ]
@@ -3394,7 +3394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:31:31.060Z",
+    "last_updated": "2026-10-03T04:52:07.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.",
