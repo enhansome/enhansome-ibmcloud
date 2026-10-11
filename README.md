@@ -27,8 +27,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,539 | 🐛 1,109 | 🌐 TypeScript | 📅 2026-10-10 - A design system built by IBM.
-* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,913 | 🐛 174 | 🌐 TypeScript | 📅 2026-10-10 - Svelte implementation of the Carbon Design System.
+* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,539 | 🐛 1,111 | 🌐 TypeScript | 📅 2026-10-11 - A design system built by IBM.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,914 | 🐛 171 | 🌐 TypeScript | 📅 2026-10-11 - Svelte implementation of the Carbon Design System.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,109 | 🐛 89 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) ⚠️ Archived - React components for the Carbon Design System.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) ⭐ 1,056 | 🐛 279 | 🌐 HTML | 📅 2026-10-05 - 📊 📈 Reusable charts implemented using D3 & typescript.
@@ -106,13 +106,13 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [cloud-foundry](https://github.com/cloudfoundry/) - IBM Cloud Platform as a Service.
   * [java-buildpack](https://github.com/cloudfoundry/java-buildpack) ⭐ 453 | 🐛 14 | 🌐 Go | 📅 2026-10-09 - Cloud Foundry buildpack for running Java applications.
   * [staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack) ⭐ 203 | 🐛 2 | 🌐 Go | 📅 2026-10-08 - Deploy static HTML/JS/CSS apps to Cloud Foundry.
-  * [nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack) ⭐ 173 | 🐛 16 | 🌐 Go | 📅 2026-10-09 - Cloud Foundry buildpack for Node.js.
+  * [nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack) ⭐ 173 | 🐛 18 | 🌐 Go | 📅 2026-10-11 - Cloud Foundry buildpack for Node.js.
   * [php-buildpack](https://github.com/cloudfoundry/php-buildpack) ⭐ 141 | 🐛 17 | 🌐 Go | 📅 2026-10-08 - A Cloud Foundry Buildpack for PHP.
-  * [python-buildpack](https://github.com/cloudfoundry/python-buildpack) ⭐ 121 | 🐛 9 | 🌐 Go | 📅 2026-10-09 - Cloud Foundry buildpack for the Python Language.
+  * [python-buildpack](https://github.com/cloudfoundry/python-buildpack) ⭐ 121 | 🐛 10 | 🌐 Go | 📅 2026-10-11 - Cloud Foundry buildpack for the Python Language.
   * [dotnet-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack) ⭐ 97 | 🐛 89 | 🌐 Go | 📅 2026-10-08 - Cloud Foundry buildpack for .NET Core on Linux.
   * [go-buildpack](https://github.com/cloudfoundry/go-buildpack) ⭐ 85 | 🐛 10 | 🌐 Go | 📅 2026-10-08 - Cloud Foundry buildpack for the Go Language.
   * [ibm-websphere-liberty-buildpack](https://github.com/cloudfoundry/ibm-websphere-liberty-buildpack) ⭐ 70 | 🐛 0 | 🌐 Ruby | 📅 2025-04-02 - IBM WebSphere Application Server Liberty Buildpack.
-  * [ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack) ⭐ 68 | 🐛 48 | 🌐 Go | 📅 2026-10-09 - Cloud Foundry buildpack for Ruby, Sinatra and Rails.
+  * [ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack) ⭐ 68 | 🐛 48 | 🌐 Go | 📅 2026-10-11 - Cloud Foundry buildpack for Ruby, Sinatra and Rails.
   * [nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack) ⭐ 30 | 🐛 6 | 🌐 Go | 📅 2026-10-08 - Cloud Foundry buildpack that provides NGINX.
   * [binary-buildpack](https://github.com/cloudfoundry/binary-buildpack) ⭐ 29 | 🐛 5 | 🌐 Shell | 📅 2026-10-08 - Deploy binaries to Cloud Foundry.
   * [r-buildpack](https://github.com/cloudfoundry/r-buildpack) ⭐ 9 | 🐛 11 | 🌐 Go | 📅 2026-10-08 - Cloud Foundry buildpack for R.
@@ -180,9 +180,9 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform.
 * [personality-insights-python](https://github.com/watson-developer-cloud/personality-insights-python) - Sample Python Application for the IBM Watson Personality Insights Service.
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
-  * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) ⭐ 1,474 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-09 - ☄️ Node.js library to access IBM Watson services.
+  * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) ⭐ 1,474 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-11 - ☄️ Node.js library to access IBM Watson services.
   * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) ⭐ 1,450 | 🐛 5 | 🌐 Python | 📅 2026-01-26 - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud.
-  * [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) ⭐ 869 | 🐛 4 | 🌐 Swift | 📅 2025-04-22 - 📱 The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications.
+  * [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) ⭐ 868 | 🐛 4 | 🌐 Swift | 📅 2025-04-22 - 📱 The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications.
   * [java-sdk](https://github.com/watson-developer-cloud/java-sdk) ⭐ 598 | 🐛 6 | 🌐 Java | 📅 2026-01-14 - 🥇 Java SDK to use the IBM Watson services.
   * [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) ⭐ 564 | 🐛 4 | 🌐 C# | 📅 2025-04-22 - 🎮 Unity SDK to use the IBM Watson services.
   * [android-sdk](https://github.com/watson-developer-cloud/android-sdk) ⭐ 148 | 🐛 11 | 🌐 Java | 📅 2021-01-04 - 🔆 Android SDK to use the IBM Watson services.
@@ -343,4 +343,4 @@ Feel free to contact me for any discussion, question, or comment. You can find o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
