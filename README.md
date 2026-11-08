@@ -27,15 +27,15 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,608 | 🐛 1,107 | 🌐 TypeScript | 📅 2026-11-07 - A design system built by IBM.
-* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,922 | 🐛 291 | 🌐 TypeScript | 📅 2026-11-07 - Svelte implementation of the Carbon Design System.
+* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,610 | 🐛 1,107 | 🌐 TypeScript | 📅 2026-11-08 - A design system built by IBM.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,922 | 🐛 276 | 🌐 TypeScript | 📅 2026-11-08 - Svelte implementation of the Carbon Design System.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,113 | 🐛 88 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) ⚠️ Archived - React components for the Carbon Design System.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) ⭐ 1,052 | 🐛 276 | 🌐 HTML | 📅 2026-11-05 - 📊 📈 Reusable charts implemented using D3 & typescript.
 * [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) ⭐ 652 | 🐛 32 | 🌐 JavaScript | 📅 2026-11-04 - Vue implementation of the Carbon Design System.
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) ⭐ 571 | 🐛 199 | 🌐 TypeScript | 📅 2026-11-04 - An Angular implementation of the Carbon Design System for IBM.
 * [carbon-web-components](https://github.com/carbon-design-system/carbon-web-components) ⚠️ Archived - Carbon Design System variant on top of Web Components.
-* [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) ⭐ 465 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - Svelte components for icons in digital and software products using the Carbon Design System.
+* [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) ⭐ 466 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - Svelte components for icons in digital and software products using the Carbon Design System.
 * [gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) ⭐ 357 | 🐛 60 | 🌐 MDX | 📅 2026-11-04 - A Carbon inspired Gatsby theme.
 * [carbon-website](https://github.com/carbon-design-system/carbon-website) ⚠️ Archived - The website for the Carbon Design System.
 * [ibm-dotcom-library](https://github.com/carbon-design-system/ibm-dotcom-library) ⭐ 297 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-07 - IBM.com library based on the Carbon Design System for IBM.
@@ -83,13 +83,13 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [kitura](https://github.com/IBM-Swift/Kitura) ⭐ 7,576 | 🐛 70 | 🌐 Swift | 📅 2026-05-19 - A Swift web framework and HTTP server.
 * [charts](https://github.com/IBM/charts) ⭐ 311 | 🐛 3 | 🌐 Go Template | 📅 2026-11-06 - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 * [swift-ubuntu-docker](https://github.com/IBM-Swift/swift-ubuntu-docker) ⭐ 151 | 🐛 0 | 🌐 Vim script | 📅 2019-07-16 - Docker image packaged with the Swift binaries.
-* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 148 | 🐛 7 | 🌐 Standard ML | 📅 2026-11-07 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
+* [cloud-pak](https://github.com/IBM/cloud-pak) ⭐ 148 | 🐛 7 | 🌐 Standard ML | 📅 2026-11-08 - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
 * [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard) ⚠️ Archived - The Logistics Wizard is an end-to-end, smart supply chain management solution.
 * [swifty-request](https://github.com/IBM-Swift/SwiftyRequest) ⭐ 110 | 🐛 13 | 🌐 Swift | 📅 2024-11-09 - SwiftyRequest is an HTTP networking library built for Swift.
 * [kitura-net](https://github.com/IBM-Swift/Kitura-net) ⭐ 104 | 🐛 11 | 🌐 Swift | 📅 2021-09-13 - Kitura networking.
 * [kitura-sample](https://github.com/IBM-Swift/Kitura-Sample) ⭐ 80 | 🐛 4 | 🌐 Swift | 📅 2020-09-18 - A sample application that shows how to use various features of Kitura.
 * [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) ⚠️ Archived - Generator for Kitura REST webservice servers.
-* [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) ⭐ 63 | 🐛 3 | 🌐 JavaScript | 📅 2018-09-10 - Node.js Controller and MQTT API for Anki Overdrive.
+* [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) ⭐ 62 | 🐛 3 | 🌐 JavaScript | 📅 2018-09-10 - Node.js Controller and MQTT API for Anki Overdrive.
 * [kitura-couchdb](https://github.com/IBM-Swift/Kitura-CouchDB) ⭐ 52 | 🐛 10 | 🌐 Swift | 📅 2021-08-19 - CouchDB adapter for Kitura.
 * [cloud-operators](https://github.com/IBM/cloud-operators) ⭐ 42 | 🐛 37 | 🌐 Go | 📅 2026-10-22 - IBM Public Cloud Service Operator.
 * [kitura-credentials](https://github.com/IBM-Swift/Kitura-Credentials) ⭐ 42 | 🐛 2 | 🌐 Swift | 📅 2020-11-26 - A pluggable framework for validating user credentials in a Swift server using Kitura.
@@ -343,4 +343,4 @@ Feel free to contact me for any discussion, question, or comment. You can find o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

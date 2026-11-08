@@ -15,11 +15,11 @@
             "id": 84835535,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T14:11:46Z",
+            "last_commit": "2026-11-08T14:11:07Z",
             "open_issues": 1107,
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9608,
+            "stars": 9610,
             "topics": [
               "design-system",
               "hacktoberfest",
@@ -42,8 +42,8 @@
             "id": 228229631,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T18:47:58Z",
-            "open_issues": 291,
+            "last_commit": "2026-11-08T18:16:41Z",
+            "open_issues": 276,
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
             "stars": 2922,
@@ -245,7 +245,7 @@
             "open_issues": 0,
             "owner": "carbon-design-system",
             "repo": "carbon-icons-svelte",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "carbon",
               "carbon-design-system",
@@ -998,7 +998,7 @@
             "id": 153376495,
             "language": "Standard ML",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T00:43:53Z",
+            "last_commit": "2026-11-08T16:10:09Z",
             "open_issues": 7,
             "owner": "IBM",
             "repo": "cloud-pak",
@@ -1158,7 +1158,7 @@
             "open_issues": 3,
             "owner": "IBM-Cloud",
             "repo": "node-mqtt-for-anki-overdrive",
-            "stars": 63,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
@@ -3394,7 +3394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:03:08.172Z",
+    "last_updated": "2026-11-08T19:09:35.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.",
