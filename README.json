@@ -15,11 +15,11 @@
             "id": 84835535,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T14:11:54Z",
-            "open_issues": 1118,
+            "last_commit": "2026-11-15T14:11:58Z",
+            "open_issues": 1122,
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9624,
+            "stars": 9626,
             "topics": [
               "design-system",
               "hacktoberfest",
@@ -42,8 +42,8 @@
             "id": 228229631,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T11:24:18Z",
-            "open_issues": 295,
+            "last_commit": "2026-11-15T11:38:07Z",
+            "open_issues": 303,
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
             "stars": 2926,
@@ -102,7 +102,7 @@
             "open_issues": 0,
             "owner": "carbon-design-system",
             "repo": "carbon-components-react",
-            "stars": 1074,
+            "stars": 1073,
             "topics": [
               "carbon-design-system",
               "javascript",
@@ -127,7 +127,7 @@
             "open_issues": 276,
             "owner": "carbon-design-system",
             "repo": "carbon-charts",
-            "stars": 1053,
+            "stars": 1054,
             "topics": [
               "angular",
               "carbon-design-system",
@@ -358,7 +358,7 @@
             "open_issues": 0,
             "owner": "carbon-design-system",
             "repo": "carbon-tutorial",
-            "stars": 162,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-28T23:41:50.781Z"
@@ -411,7 +411,7 @@
             "open_issues": 2,
             "owner": "carbon-design-system",
             "repo": "design-language-website",
-            "stars": 100,
+            "stars": 98,
             "topics": [
               "hacktoberfest"
             ]
@@ -486,7 +486,7 @@
             "open_issues": 28,
             "owner": "carbon-design-system",
             "repo": "ibm-security",
-            "stars": 77,
+            "stars": 76,
             "topics": [
               "carbon-design-system",
               "ibm-security",
@@ -695,7 +695,7 @@
             "open_issues": 6,
             "owner": "kubernetes-retired",
             "repo": "kui",
-            "stars": 2890,
+            "stars": 2891,
             "topics": [
               "cli",
               "dashboard",
@@ -1963,7 +1963,7 @@
             "open_issues": 7,
             "owner": "watson-developer-cloud",
             "repo": "personality-insights-nodejs",
-            "stars": 555,
+            "stars": 554,
             "topics": [
               "personality-insights"
             ]
@@ -3104,7 +3104,7 @@
                 "id": 27840307,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T12:09:08Z",
+                "last_commit": "2026-11-15T12:16:53Z",
                 "open_issues": 13,
                 "owner": "watson-developer-cloud",
                 "repo": "node-sdk",
@@ -3138,7 +3138,7 @@
                 "open_issues": 6,
                 "owner": "watson-developer-cloud",
                 "repo": "python-sdk",
-                "stars": 1450,
+                "stars": 1449,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -3394,7 +3394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:28:54.299Z",
+    "last_updated": "2026-11-15T19:57:11.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.",

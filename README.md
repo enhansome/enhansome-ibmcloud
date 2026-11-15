@@ -27,11 +27,11 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,624 | 🐛 1,118 | 🌐 TypeScript | 📅 2026-11-14 - A design system built by IBM.
-* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,926 | 🐛 295 | 🌐 TypeScript | 📅 2026-11-14 - Svelte implementation of the Carbon Design System.
+* [carbon](https://github.com/carbon-design-system/carbon) ⭐ 9,626 | 🐛 1,122 | 🌐 TypeScript | 📅 2026-11-15 - A design system built by IBM.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,926 | 🐛 303 | 🌐 TypeScript | 📅 2026-11-15 - Svelte implementation of the Carbon Design System.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) ⭐ 1,113 | 🐛 90 | 📅 2025-08-21 - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) ⚠️ Archived - React components for the Carbon Design System.
-* [carbon-charts](https://github.com/carbon-design-system/carbon-charts) ⭐ 1,053 | 🐛 276 | 🌐 HTML | 📅 2026-11-05 - 📊 📈 Reusable charts implemented using D3 & typescript.
+* [carbon-charts](https://github.com/carbon-design-system/carbon-charts) ⭐ 1,054 | 🐛 276 | 🌐 HTML | 📅 2026-11-05 - 📊 📈 Reusable charts implemented using D3 & typescript.
 * [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) ⭐ 653 | 🐛 33 | 🌐 JavaScript | 📅 2026-11-10 - Vue implementation of the Carbon Design System.
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) ⭐ 571 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-13 - An Angular implementation of the Carbon Design System for IBM.
 * [carbon-web-components](https://github.com/carbon-design-system/carbon-web-components) ⚠️ Archived - Carbon Design System variant on top of Web Components.
@@ -41,10 +41,10 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [ibm-dotcom-library](https://github.com/carbon-design-system/ibm-dotcom-library) ⭐ 297 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-11 - IBM.com library based on the Carbon Design System for IBM.
 * [carbon-tutorial](https://github.com/carbon-design-system/carbon-tutorial) ⚠️ Archived - An app for the Carbon Design System tutorial.
 * [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react) ⭐ 105 | 🐛 247 | 🌐 JavaScript | 📅 2026-09-01 - This library contains React components shared between all IBM IoT products to unify our look and feel. These widgets are usually based on the carbon-components-react widgets.
-* [carbon-language-website](https://github.com/carbon-design-system/design-language-website) ⭐ 100 | 🐛 2 | 🌐 CSS | 📅 2026-11-12 - IBM Design Language website.
+* [carbon-language-website](https://github.com/carbon-design-system/design-language-website) ⭐ 98 | 🐛 2 | 🌐 CSS | 📅 2026-11-12 - IBM Design Language website.
 * [carbon-icons](https://github.com/carbon-design-system/carbon-icons) ⭐ 96 | 🐛 36 | 🌐 HTML | 📅 2024-05-23 - SVG icon library for the Carbon Design System.
 * [carbon-angular-starter](https://github.com/carbon-design-system/carbon-angular-starter) ⭐ 77 | 🐛 32 | 🌐 TypeScript | 📅 2024-05-23 - A simple starter app for bootstrapping applications with Carbon components.
-* [ibm-security](https://github.com/carbon-design-system/ibm-security) ⭐ 77 | 🐛 28 | 🌐 JavaScript | 📅 2025-11-17 - A Carbon experience framework built by IBM Security.
+* [ibm-security](https://github.com/carbon-design-system/ibm-security) ⭐ 76 | 🐛 28 | 🌐 JavaScript | 📅 2025-11-17 - A Carbon experience framework built by IBM Security.
 * [ibm-dotcom-library-website](https://github.com/carbon-design-system/ibm-dotcom-library-website) ⭐ 42 | 🐛 28 | 🌐 MDX | 📅 2024-09-23 - This is the IBM.com Library website, which includes documentation and guidelines around design and development for IBM.com.
 * [ibm-dotcom-library-nextjs-template](https://github.com/carbon-design-system/ibm-dotcom-library-nextjs-template) ⚠️ Archived - This is a IBMdotcom NextJS template utilizing the IBMdotcom React library.
 * [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) ⚠️ Archived - Carbon Add-on for IBM Collaboration Solutions.
@@ -180,8 +180,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform.
 * [personality-insights-python](https://github.com/watson-developer-cloud/personality-insights-python) - Sample Python Application for the IBM Watson Personality Insights Service.
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
-  * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) ⭐ 1,474 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-07 - ☄️ Node.js library to access IBM Watson services.
-  * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) ⭐ 1,450 | 🐛 6 | 🌐 Python | 📅 2026-11-02 - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud.
+  * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) ⭐ 1,474 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-15 - ☄️ Node.js library to access IBM Watson services.
+  * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) ⭐ 1,449 | 🐛 6 | 🌐 Python | 📅 2026-11-02 - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud.
   * [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) ⭐ 868 | 🐛 4 | 🌐 Swift | 📅 2025-04-22 - 📱 The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications.
   * [java-sdk](https://github.com/watson-developer-cloud/java-sdk) ⭐ 599 | 🐛 6 | 🌐 Java | 📅 2026-01-14 - 🥇 Java SDK to use the IBM Watson services.
   * [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) ⭐ 564 | 🐛 4 | 🌐 C# | 📅 2025-04-22 - 🎮 Unity SDK to use the IBM Watson services.
@@ -343,4 +343,4 @@ Feel free to contact me for any discussion, question, or comment. You can find o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
